@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<record where="s" when="1167946162" ordinal="12" title="EXPRESSING THE THANKS OF THE SENATE TO SENATOR TED STEVENS AND DESIGNATION AS PRESIDENT PRO TEMPORE EMERITUS">
+  <speaking speaker="300072" topic="">
+    <paragraph>Mr. President, I send a resolution to the desk.</paragraph>
+  </speaking>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>The clerk will report the resolution by title.</paragraph>
+  </speaking-unknown-id>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Without objection, the resolution is agreed to.</paragraph>
+    <paragraph>The resolution (<bill type="sr" number="6">S. Res. 6</bill>) was agreed to, as follows:</paragraph>
+    <paragraph>
+      <bill type="sr" number="6">S. Res. 6</bill>
+    </paragraph>
+    <paragraph>Resolved, That the United States Senate expresses its deepest gratitude to Senator TED STEVENS for his dedication and commitment during his service to the Senate as the President Pro Tempore.</paragraph>
+    <paragraph>Further, as a token of appreciation of the Senate for his long and faithful service, Senator TED STEVENS is hereby designated President Pro Tempore Emeritus of the United States Senate.</paragraph>
+  </speaking-unknown-id>
+  <speaking speaker="300072" topic="">
+    <paragraph>Mr. President, I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300082" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+</record>

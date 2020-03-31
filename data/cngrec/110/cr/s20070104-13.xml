@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<record where="s" when="1167946162" ordinal="13" title="FIXING THE HOUR OF THE DAILY MEETING OF THE SENATE">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I send a resolution to the desk.</paragraph>
+  </speaking>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>The clerk will report the resolution by title.</paragraph>
+  </speaking-unknown-id>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Without objection, the resolution is considered and agreed to.</paragraph>
+    <paragraph>The resolution (<bill type="sr" number="7">S. Res. 7</bill>) was agreed to, as follows:</paragraph>
+    <paragraph>
+      <bill type="sr" number="7">S. Res. 7</bill>
+    </paragraph>
+    <paragraph>Resolved, That the daily meeting of the Senate be 12 o'clock meridian unless otherwise ordered.</paragraph>
+  </speaking-unknown-id>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300072" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+</record>

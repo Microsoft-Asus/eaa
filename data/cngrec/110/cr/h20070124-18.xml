@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<record where="h" when="1169614800" ordinal="18" title="MOTION TO ADJOURN">
+  <speaking speaker="400419" topic="">
+    <paragraph>Madam Speaker, I move that the House do now adjourn.</paragraph>
+  </speaking>
+  <chair/>
+  <speaking speaker="400115" topic="">
+    <paragraph>Madam Speaker, on that I demand the yeas and nays.</paragraph>
+  </speaking>
+  <narrative>The yeas and nays were ordered.</narrative>
+</record>

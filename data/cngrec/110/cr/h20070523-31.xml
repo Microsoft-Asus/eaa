@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<record where="h" when="1179936136" ordinal="31" title="PARLIAMENTARY INQUIRY">
+  <speaking speaker="400626" topic="">
+    <paragraph>Parliamentary inquiry, Madam Speaker.</paragraph>
+  </speaking>
+  <chair> The gentleman may state his parliamentary inquiry.</chair>
+  <speaking speaker="400626" topic="">
+    <paragraph>Madam Speaker, I wish to reserve a point of order on <bill type="h" number="1100">H.R. 1100</bill>, and would ask the Chair at what time would be the appropriate time to reserve that point of order.</paragraph>
+  </speaking>
+  <chair> Now would be the appropriate time to make the point of order.</chair>
+</record>

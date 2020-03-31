@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<record where="s" when="1171515600" ordinal="14" title="LEGISLATIVE SESSION">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I announce to all Democratic Senators: We are having a caucus in Room S-219. The subject matter of this caucus is interesting.</paragraph>
+    <paragraph>I have a unanimous consent request that I am going to propound.</paragraph>
+    <paragraph>Mr. President, I ask you and the other Members to be patient. I am having a little script prepared for me to read.</paragraph>
+    <paragraph>I suggest the absence of a quorum.</paragraph>
+  </speaking>
+  <chair> The clerk will call the roll.</chair>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I ask unanimous consent that the order for the quorum call be rescinded.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+</record>

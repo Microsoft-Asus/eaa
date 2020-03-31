@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<record where="h" when="1174665652" ordinal="21" title="PARLIAMENTARY INQUIRY">
+  <speaking speaker="400626" topic="">
+    <paragraph>Mr. Speaker, I have a parliamentary inquiry.</paragraph>
+  </speaking>
+  <chair> The gentleman will state it.</chair>
+  <speaking speaker="400626" topic="">
+    <paragraph>Mr. Speaker, on the bill that was just passed, <bill type="h" number="1591">H.R. 1591</bill>, which passed, as I understand it, by a vote of 218-212, was rule XXIII, clause 16, applicable?</paragraph>
+  </speaking>
+  <chair> That is correct.</chair>
+  <speaking speaker="400626" topic="">
+    <paragraph>Further parliamentary inquiry, Mr. Speaker.</paragraph>
+  </speaking>
+  <chair> The gentleman may state his inquiry.</chair>
+  <speaking speaker="400626" topic="">
+    <paragraph>Mr. Speaker, so it is my understanding the rule under which we operated on <bill type="h" number="1591">H.R. 1591</bill> did not waive House rule XXIII, clause 16. Is that correct?</paragraph>
+  </speaking>
+  <chair> The gentleman is referencing the Code of Official Conduct, the operation of which was not affected by House Resolution 261.</chair>
+</record>

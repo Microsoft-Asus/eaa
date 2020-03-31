@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<record where="s" when="1169489305" ordinal="52" title="ORDER FOR ADJOURNMENT">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, if there is no further business to come before the Senate, I ask unanimous consent that following the remarks of Senator Warner, the Senate stand adjourned under the previous order.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <speaking speaker="300082" topic="">
+    <paragraph>I suggest the absence of a quorum.</paragraph>
+  </speaking>
+  <chair> The clerk will call the roll.</chair>
+  <speaking speaker="300099" topic="">
+    <paragraph>Mr. President, I ask unanimous consent that the order for the quorum call be rescinded.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+</record>

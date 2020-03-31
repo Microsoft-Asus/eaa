@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<record where="s" when="1168534804" ordinal="53" title="MEASURE READ THE FIRST TIME--H.R. 3">
+  <speaking speaker="400050" topic="">
+    <paragraph>Mr. President, I understand that <bill type="h" number="3">H.R. 3</bill> has been received from the House and is at the desk.</paragraph>
+    <paragraph>I ask for its first reading.</paragraph>
+  </speaking>
+  <chair> The clerk will report the bill by title.</chair>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking speaker="400050" topic="">
+    <paragraph>Mr. President, I ask for its second reading and object to my own request.</paragraph>
+  </speaking>
+  <chair> Objection is heard. The bill will be read the second time on the next legislative day.</chair>
+</record>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record where="s" when="1178553612" ordinal="45" title="MEASURE READ THE FIRST TIME">
+  <speaking speaker="400050" topic="">
+    <paragraph>I understand that <bill type="s" number="1312">S. 1312</bill>, introduced earlier today by Senator DeMint and others, is at the desk, and I ask for its first reading.</paragraph>
+  </speaking>
+  <chair> The clerk will read the bill by title for the first time.</chair>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking speaker="400050" topic="">
+    <paragraph>I now ask for its second reading and object to my own request.</paragraph>
+  </speaking>
+  <chair> Objection is heard.</chair>
+</record>

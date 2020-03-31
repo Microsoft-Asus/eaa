@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<record where="s" when="1173114004" ordinal="10" title="MORNING BUSINESS">
+  <chair> Under the previous order, the Senate will proceed to a period of morning business until 3 p.m., with Senators permitted to speak therein for up to 10 minutes each.</chair>
+  <speaking speaker="300001" topic="">
+    <paragraph>Mr. President, I ask unanimous consent that I be given 10 minutes to speak in morning business.</paragraph>
+  </speaking>
+  <chair> The Senator has that right.</chair>
+  <speaking speaker="300001" topic="">
+    <paragraph>Thank you, Mr. President.</paragraph>
+  </speaking>
+</record>

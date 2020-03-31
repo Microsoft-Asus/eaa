@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<record where="s" when="1167946162" ordinal="7" title="INFORMING THE PRESIDENT OF THE UNITED STATES THAT A QUORUM OF EACH HOUSE IS ASSEMBLED">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I send a resolution to the desk and ask for its consideration.</paragraph>
+  </speaking>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>The clerk will report the resolution by title.</paragraph>
+  </speaking-unknown-id>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Without objection, the resolution is considered and agreed to.</paragraph>
+    <paragraph>The resolution (<bill type="sr" number="1">S. Res. 1</bill>) was agreed to, as follows:</paragraph>
+    <paragraph>
+      <bill type="sr" number="1">S. Res. 1</bill>
+    </paragraph>
+    <paragraph>Resolved, That a committee consisting of two Senators be appointed to join such committee as may be appointed by the House of Representatives to wait upon the President of the United States and inform him that a quorum of each House is assembled and that the Congress is ready to receive any communication he may be pleased to make.</paragraph>
+  </speaking-unknown-id>
+  <speaking speaker="300082" topic="">
+    <paragraph>I move to reconsider the vote by which the resolution was adopted.</paragraph>
+  </speaking>
+  <speaking speaker="300072" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Pursuant to <bill type="sr" number="1">S. Res. 1</bill>, the Chair appoints the Senator from Nevada, Mr. Reid, and the Senator from Kentucky, Mr. McConnell, as a committee to join the committee on the part of the House of Representatives to wait upon the President of the United States and inform him that a quorum is assembled and that the Congress is ready to receive any communication he may be pleased to make.</paragraph>
+    <paragraph>The majority leader is recognized.</paragraph>
+  </speaking-unknown-id>
+</record>

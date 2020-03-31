@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<record where="h" when="1173888004" ordinal="42" title="MOTION TO ADJOURN">
+  <speaking speaker="400627" topic="">
+    <paragraph>Mr. Speaker, I move we adjourn.</paragraph>
+  </speaking>
+  <chair> The question is on the motion to adjourn offered by the gentleman from Georgia (Mr. Westmoreland).</chair>
+  <speaking speaker="400627" topic="">
+    <paragraph>Mr. Speaker, I demand a recorded vote.</paragraph>
+  </speaking>
+  <narrative>A recorded vote was ordered.</narrative>
+</record>

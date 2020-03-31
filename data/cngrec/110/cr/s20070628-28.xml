@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<record where="s" when="1183046405" ordinal="28" title="CHANGE OF VOTE">
+  <speaking speaker="300070" topic="">
+    <paragraph>Mr. President, on rollcall vote No. 231, I voted "nay." It was my intention to vote "aye."</paragraph>
+    <paragraph>I ask unanimous consent that I be recorded as an "aye." This would not affect the outcome of the vote.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <speaking speaker="300038" topic="">
+    <paragraph>Mr. President, I suggest the absence of a quorum.</paragraph>
+  </speaking>
+  <chair> The clerk will call the roll.</chair>
+  <speaking speaker="300038" topic="">
+    <paragraph>I ask unanimous consent that the order for the quorum call be rescinded.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+</record>

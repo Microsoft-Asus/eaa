@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<record where="s" when="1170262802" ordinal="64" title="MEASURE READ THE FIRST TIME--S. 470">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, it is my understanding that <bill type="s" number="470">S. 470</bill>, introduced by Senator Levin, is at the desk, and I ask for its first reading.</paragraph>
+  </speaking>
+  <chair> The clerk will report the bill by title.</chair>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I now ask for its second reading but object to my own request.</paragraph>
+  </speaking>
+  <chair> Objection is heard.</chair>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I suggest the absence of a quorum.</paragraph>
+  </speaking>
+  <chair> The clerk will call the roll.</chair>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I ask unanimous consent that the order for the quorum call be rescinded.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+</record>

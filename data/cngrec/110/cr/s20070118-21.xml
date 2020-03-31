@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<record where="s" when="1169139604" ordinal="21" title="APPOINTMENT">
+  <chair> For the information of the Senate, the Chair makes the following announcement:</chair>
+  <speaking speaker="400546" topic="">
+    <paragraph>I thank the Chair.</paragraph>
+  </speaking>
+  <narrative>(The remarks of Mr. THUNE and Mr. SALAZAR pertaining to the introduction of <bill type="s" number="331">S. 331</bill> are located in today's RECORD under "Statements on Introduced Bills and Joint Resolutions.")</narrative>
+  <speaking speaker="400546" topic="">
+    <paragraph>Mr. President, I yield the floor, and I suggest the absence of a quorum.</paragraph>
+  </speaking>
+  <chair> The clerk will call the roll.</chair>
+  <speaking speaker="300026" topic="">
+    <paragraph>Mr. President, I ask unanimous consent that the order for the quorum call be rescinded.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+</record>

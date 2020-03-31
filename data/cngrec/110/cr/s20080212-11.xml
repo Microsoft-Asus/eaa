@@ -1,0 +1,1202 @@
+<?xml version="1.0"?>
+<record where="s" when="1202835603" ordinal="11" title="FISA AMENDMENTS ACT OF 2007">
+  <narrative>FISA AMENDMENTS ACT OF 2007 -- (Senate - February 12, 2008)&lt;p&gt;&lt;center&gt;&lt;pre&gt;[Page: <bill type="s" number="880">S880</bill>]</narrative>
+  <chair> Under the previous order, the Senate will resume consideration of <bill type="s" number="2248">S. 2248</bill>, which the clerk will report.</chair>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <narrative>A bill (<bill type="s" number="2248">S. 2248</bill>) to amend the Foreign Intelligence Surveillance Act of 1978, to modernize and streamline the provisions of that act, and for other purposes.</narrative>
+  <narrative>Pending:</narrative>
+  <narrative>Rockefeller/Bond amendment No. 3911, in the nature of a substitute.</narrative>
+  <narrative>Whitehouse amendment No. 3920 (to amendment No. 3911), to provide procedures for compliance reviews.</narrative>
+  <narrative>Feingold amendment No. 3979 (to amendment No. 3911), to provide safeguards for communications involving persons inside the United States.</narrative>
+  <narrative>Feingold/Dodd amendment No. 3912 (to amendment No. 3911), to modify the requirements for certifications made prior to the initiation of certain acquisitions.</narrative>
+  <narrative>Dodd amendment No. 3907 (to amendment No. 3911), to strike the provisions providing immunity from civil liability to electronic communication service providers for certain assistance provided to the Government.</narrative>
+  <narrative>Bond/Rockefeller modified amendment No. 3938 (to amendment No. 3911), to include prohibitions on the international proliferation of weapons of mass destruction in the Foreign Intelligence Surveillance Act of 1978.</narrative>
+  <narrative>Feinstein amendment No. 3910 (to amendment No. 3911), to provide a statement of the exclusive means by which electronic surveillance and interception of certain communications may be conducted.</narrative>
+  <narrative>Feinstein amendment No. 3919 (to amendment No. 3911), to provide for the review of certifications by the Foreign Intelligence Surveillance Court.</narrative>
+  <narrative>Specter/Whitehouse amendment No. 3927 (to amendment No. 3911), to provide for the substitution of the United States in certain civil actions.</narrative>
+  <speaking speaker="300084" topic="">
+    <paragraph>I say to the Presiding Officer, it is my understanding that the first amendment is minimization compliance review by Senator Whitehouse.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, first of all, we thank all our colleagues for coming to this point where we can have votes and finally get this bill out, which we started in December. It is a very important bill. We have worked together on a bipartisan basis and resolved almost all issues.</paragraph>
+    <paragraph>The amendment offered by our colleague from Rhode Island has been modified in a way that I believe improves it, makes it effective, makes it work for the intelligence community, and achieves the very important goals that the Senator from Rhode Island has sought to achieve.</paragraph>
+    <paragraph>I ask that I be added as a cosponsor to this modified amendment. I believe, Mr. President, we can accept it by voice vote.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <chair>The Senator from West Virginia.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I simply would also like to be added as a cosponsor, and I congratulate Senator Whitehouse, Senator Bond, and others for doing an outstanding piece of work in resolving the differences on this extremely important enforcement mechanism.</paragraph>
+  </speaking>
+  <chair> The Senator from Rhode Island.</chair>
+  <speaking speaker="412247" topic="">
+    <paragraph>Mr. President, I have at the desk a modification to amendment No. 3920.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered. The amendment is so modified.</chair>
+  <chair>The amendment, as modified, is as follows:</chair>
+  <chair> On page 69, after line 23, add the following:&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (d) Authority of Foreign Intelligence Surveillance Court.--Section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), as amended by this Act, is amended by adding at the end the following:&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; "(h)(1) Nothing in this Act shall be considered to reduce or contravene the inherent authority of the Foreign Intelligence Surveillance Court to determine, or enforce, compliance with an order or a rule of such Court or with a procedure approved by such Court.</chair>
+  <chair> "(2) In this subsection, the terms `Foreign Intelligence Surveillance Court' and `Court' mean the court established by subsection (a).".&lt;p&gt;</chair>
+  <speaking speaker="412247" topic="">
+    <paragraph>Mr. President, much of the FISA battle in which we have been engaged over the weeks that it has taken to resolve this issue has been over trying to do two things: one, to fit this program within the separation of powers principles of the American system of government and, two, to make the rights of Americans consistent with what they enjoy stateside in law enforcement investigations.</paragraph>
+    <paragraph>This amendment is a valuable step in both of those directions, and it solves the minimization issue that had been in dispute.</paragraph>
+    <paragraph>I appreciate very much the roles of Chairman Rockefeller, Vice Chairman Bond, FBI Director Mueller, and DNI counsel Powell in getting us to a voice vote on this bipartisan amendment.</paragraph>
+    <paragraph>Mr. President, I ask unanimous consent that amendment No. 3920, as modified, be adopted by voice vote.</paragraph>
+  </speaking>
+  <chair> Without objection it is so ordered. If there is no further debate, the question is on agreeing to amendment No. 3920, as modified.</chair>
+  <chair>The amendment (No. 3920), as modified, was agreed to.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300010" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <chair> The question is now on amendment No. 3910 offered by the Senator from California.</chair>
+  <chair>The Senator from California.</chair>
+  <speaking speaker="300043" topic="">
+    <paragraph>Mr. President, it is my understanding that there is 2 minutes evenly divided; is that correct?</paragraph>
+  </speaking>
+  <chair> The Senator is correct.</chair>
+  <speaking speaker="300043" topic="">
+    <paragraph>Mr. President, the purpose of this amendment is to strengthen the legal requirement that FISA is the exclusive authority for the electronic surveillance of Americans. When FISA was written in 1978, it followed 30 years of warrantless surveillance of communications and telegrams of hundreds of thousands of Americans sending messages outside the country. This would stress that FISA is the legal way for the collection of electronic surveillance against Americans.</paragraph>
+    <paragraph>In 2001, the administration decided they would not take the Terrorist Surveillance Program to the FISA Court, that they would perform this program outside of FISA, and it took until January of 2007 to bring this within the confines of FISA where it is to this day.</paragraph>
+    <paragraph>I think we need to make a strong statement in this bill that FISA is the exclusive authority for the electronic surveillance of all Americans, and this amendment aims to do that. It provides penalties for moving outside of the law, and I believe it would strengthen the opportunity to prevent the Chief Executive, either now or in the future, from moving outside of this law.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, the bill before us, <bill type="s" number="2248">S. 2248</bill>, already has an exclusive means provision that simply restates the congressional intent back in 1978 when FISA was enacted to place the President at his lowest ebb of authority under the Constitution, which gives him power over foreign intelligence. Unfortunately, this amendment is a significant change of the bipartisan provision in the Intelligence Committee bill, and therefore I would urge my colleagues to oppose it.</paragraph>
+    <paragraph>During the next attack on our country or in the face of an imminent threat, Congress may not be in a position to legislate an authorization. Yet the bottom line is, we just don't know what tomorrow will bring. This provision would raise unnecessary legal concerns that might impede the effective action of our intelligence community to protect this country.</paragraph>
+    <paragraph>Further, because this amendment does not address warrantless surveillance in times of war and national emergency following an attack on our country, it does not provide enough flexibility for intelligence collectors. I am concerned this will cause operational problems.</paragraph>
+    <paragraph>Mr. President, I urge the defeat of this amendment.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to the amendment. The yeas and nays have been ordered.</chair>
+  <chair>The Senator from West Virginia.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I ask unanimous consent to speak on this amendment.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I strongly support this amendment. I think it has very good delineation between how decisions are made. The FISA Court needs to be a part of this. I urge my colleagues to support the amendment.</paragraph>
+    <paragraph>I thank the senior Senator from California for offering this amendment, and for all of her work on ensuring that we have an appropriately drafted exclusivity provision. Senator Feinstein's amendment is critical to both our work on this bill and to our oversight of the intelligence community.</paragraph>
+    <paragraph>To understand the importance of the Feinstein amendment, we must look at both existing statutes and recent events.</paragraph>
+    <paragraph>There is already an exclusivity provision in the United States Code. It was enacted as part of the original Foreign Intelligence Surveillance Act in 1978 and placed, where it exists now, in title 18, the criminal law title of the United States Code.</paragraph>
+    <paragraph>That provision makes the Foreign Intelligence Surveillance Act and certain criminal wiretapping provisions the "exclusive means by which electronic surveillance ..... and the interception of domestic wire, oral and electronic communications may be conducted." Although the intent of Congress is clear from this language, recent history raises concerns about the adequacy of this provision.</paragraph>
+    <paragraph>In December of 2005, the American people and most of Congress learned for the first time that, shortly after the terrorist attacks of September 11, 2007, the President had authorized the National Security Agency to conduct certain surveillance activities within the United States.</paragraph>
+    <paragraph>In publicly justifying the legality of this program, the White House asserted that Congress had authorized the President's program by enacting an authorization for use of military force after September 11.</paragraph>
+    <paragraph>The authorization passed on September 14, 2001, did not mention electronic surveillance. Nor did it mention any domestic intelligence activities. Given the nature of both the authorization and the time in which it was passed, it is very unlikely that it occurred to anyone in Congress that the President might use this authorization to justify his position that the existing statute making FISA the exclusive means for conducting electronic surveillance no longer applied.</paragraph>
+    <paragraph>I have expressed my dismay in the past about the legal arguments that the President used to justify the surveillance program. We are still working through the many problems caused by the President's decision to go forward without input from Congress or the courts.</paragraph>
+    <paragraph>But no matter what the President should have done at the time, Congress now has an obligation to act to prevent this misuse of legislation. Having finally made the right decision in early 2007 to bring his entire program under the FISA Court, the President is no longer using the 2001 Authorization for the Use of military force as a justification to disregard FISA. But we must ensure that neither this President nor a future one resurrects the discredited argument that the 2001 authorization for  the use of military force is a blank check for such lawlessness.</paragraph>
+    <paragraph>Section 102 of the Intelligence Committee bill prevents that abuse. Section 102 enacts an exclusivity provision as a new section 112 of FISA, and lists all statutes now in effect that constitute authority for electronic surveillance. This list is a clear statement of congressional intent: Congress did not intend any other presently-existing statutes to constitute an exception to FISA.</paragraph>
+    <paragraph>Conspicuously absent from the exclusive list is the 2001 authorization for the use of military force. The omission of the 2001 authorization from the complete list that will now be enacted in 2008 is a conclusive statement that the 2001 authorization may never again be used to circumvent FISA.</paragraph>
+    <paragraph>Senator Feinstein's amendment takes exclusivity one important step further. It is designed to ensure that no future President interprets a statute that does not explicitly mention electronic surveillance as an exception to the FISA exclusivity requirement. This would be an absolutely incorrect interpretation of existing law. Senator Feinstein's amendment ensures that no President will again make this mistake.</paragraph>
+    <paragraph>Senator Feinstein's amendment addresses the possible impact of future statutes by adding language to the exclusivity section that states that only an express statutory authorization for electronic surveillance will constitute an additional exclusive means for electronic surveillance.</paragraph>
+    <paragraph>By requiring "express statutory authorization," Congress anticipates that a statute will only constitute an exception to FISA if it explicitly discusses electronic surveillance. Only those statutes listed in the FISA exclusivity section of the Intelligence Committee bill currently meet that standard.</paragraph>
+    <paragraph>The amendment therefore ensures that general statutes enacted in the future do not become the basis for exceptions to the FISA exclusivity provision. It also applies criminal and civil penalties for any electronic surveillance done outside of the list of authorized statutes.</paragraph>
+    <paragraph>The Feinstein amendment being offered today also resolves the operational concerns raised by the Director of National Intelligence about the exclusivity provision in the Judiciary Committee's amendment to the bill. Senator Feinstein's amendment does not include the undefined term "communications information" and therefore does not bar the acquisition of information that is currently authorized under other statutes.</paragraph>
+    <paragraph>Existing statutes as well as the current bill provide the intelligence community with mechanisms to obtain the intelligence the country needs in a legal manner, with the oversight of the courts. There is no need for this President, or any future President, to set aside the lawful, well-overseen procedures of FISA in favor of a secret intelligence program.</paragraph>
+    <paragraph>Both the Intelligence and Judiciary Committees have done a significant amount of work, on a bipartisan basis, to draft a bill that allows the collection of needed intelligence while still protecting the civil liberties of U.S. persons. Senator Feinstein's amendment helps to make sure that this work will not simply be ignored by this President or any future President.</paragraph>
+  </speaking>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, I would note that the Intelligence Committee debated this and accepted a return to the original FISA exclusive means provision, which I think we should maintain, and I urge opposition.</paragraph>
+    <paragraph><bill type="s" number="2248">S. 2248</bill> already has an exclusive means provision that is identical to the first part of this amendment. That provision simply restates Congress's intent back in 1978 when FISA was enacted to place the President at his lowest ebb of authority in conducting warrantless foreign intelligence surveillance.</paragraph>
+    <paragraph>The current exclusive mean provision in <bill type="s" number="2248">S. 2248</bill> was acceptable to all sides because it maintains the status quo with respect to the dispute over the President's constitutional authority to authorize warrantless surveillance.</paragraph>
+    <paragraph>Unfortunately, this amendment is a significant expansion of the bipartisan provision in the Intelligence Committee's bill.</paragraph>
+    <paragraph>It goes further by stating that only an express statutory authorization for electronic surveillance, other than FISA or the criminal wiretap statutes, shall constitute additional exclusive means.</paragraph>
+    <paragraph>This attempts to prohibit the President's exercise of his judicially recognized artic1e II authority to issue warrantless electronic surveillance directives.</paragraph>
+    <paragraph>It also would require that future authorizations for the use of military force, AUMFs, expressly state that they authorize the use of additional electronic surveillance.</paragraph>
+    <paragraph>I am concerned that this amendment would tie the President's hands following a national emergency or imminent threat of attack on our country--and prevent actions or intelligence collection that may be necessary for our safety and survival.</paragraph>
+    <paragraph> While FISA currently has provisions that allow the President to conduct electronic surveillance, physical searches, or install pen register/trap and trace devices for 15 days following a declaration of war, these authorities are simply insufficient against the current terrorist threats our country faces.</paragraph>
+    <paragraph>Let's think this through for a minute. During the next attack on our country, or in the face of an imminent threat, the Congress may not be in a position to legislate an express authorization of additional means. We may not be in a position to formally declare war against an unknown enemy.</paragraph>
+    <paragraph>What if there is intelligence information about an imminent threat of attack, but Congress is in a lengthy recess, over a holiday? What if there are simultaneous terrorist attacks across the country, impeding air travel so that Members cannot return to Washington, DC?</paragraph>
+    <paragraph>The bottom line is, we just don't know what tomorrow will bring. Yet this provision would raise unnecessary legal concerns that might impede effective action by the executive branch to protect this country.</paragraph>
+    <paragraph>I have the utmost respect for Senator FEINSTEIN. She has played a key role in this FISA modernization process.</paragraph>
+    <paragraph> While our views on the President's constitutional authority may differ, she did convince me that a bipartisan FISA bill should restate the exclusive means concept in the originally enacted FISA statute.</paragraph>
+    <paragraph> And over the past several weeks, Senator FEINSTEIN and I tried to come up with a further compromise, one that would expand this simple restatement but would also allow the President to act in the event of a national emergency, or following an AUMF or declaration of war.</paragraph>
+    <paragraph>Unfortunately, we could not reach an agreement. I believe that if we are going to declare that the President should follow the current FISA framework, then we need to make sure that that framework is flexible enough to address the grave threats of terrorism that threaten our country--and that means giving the President the ability to conduct warrantless electronic surveillance, physical searches, or installing pen register/trap and trace devices, for a reasonable period of time. This amendment  does not provide this flexibility.</paragraph>
+    <paragraph>I have other concerns with this amendment. It would make members of the intelligence community who conduct electronic surveillance at the direction of the President subject to the FISA criminal penalty provisions of a $10,000 fine and imprisonment for not more than 5 years. Also, it is likely these criminal penalties would apply to any service provider who assisted the government in conducting such electronic surveillance.</paragraph>
+    <paragraph>I don't care what the skeptics and critics have said about the President's Terrorist Surveillance Program; the Constitution trumps the FISA statute.</paragraph>
+    <paragraph>If a government employee--or a provider--acts under the color of the President's lawful exercise of his constitutional authority, that employee should not be subject to criminal penalty.</paragraph>
+    <paragraph>In my opinion, the current restatement of exclusive means is fair and keeps the playing field level.</paragraph>
+    <paragraph>Ultimately, the Supreme Court will decide whether Congress has the authority to limit the President's authority to intercept enemy communications.</paragraph>
+    <paragraph>Until then, it is my hope that we don't try to tilt the balance in a way that we may someday come to regret.</paragraph>
+    <paragraph>I urge my colleagues to vote against this exclusive means amendment.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to  amendment No. 3910. The clerk will call the roll.</chair>
+  <chair>The bill clerk called the roll.</chair>
+  <speaking speaker="300038" topic="">
+    <paragraph>I announce that the Senator from New York (Mrs. CLINTON) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. GRAHAM).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. GRAHAM) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 57, nays 41, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 13 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <chair> Under the previous order requiring 60 votes for the adoption of this amendment, the amendment is withdrawn.</chair>
+  <chair>There will now be 2 minutes of debate equally divided on amendment No. 3979 offered by the Senator from Wisconsin, Mr. Feingold.</chair>
+  <speaking speaker="300042" topic="">
+    <paragraph>Mr. President, the Feingold-Webb-Tester amendment lets the Government get the information it needs about terrorists and about purely foreign communications, while providing additional checks and balances for communications between people in the United States and their overseas family members, friends, and business colleagues.</paragraph>
+    <paragraph>It has the support of nine cosponsors. All this amendment does is require the Government to take extra steps to protect the privacy of Americans on U.S. soil when it knows it has collected their communications.</paragraph>
+    <paragraph>This amendment in no way hampers our fight against al-Qaida and its affiliates. This is not about whether we will be effective in combatting terrorism. This is about whether Americans at home deserve more privacy protections than foreigners overseas.</paragraph>
+    <paragraph>This is about separation of power, whether anyone outside the executive branch will oversee what the Government is doing with all the communications of Americans it collects inside the United States. I urge my colleagues to support the amendment.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, the purpose of this bill is to make sure we are able to get information when we target a foreign terrorist overseas.</paragraph>
+    <paragraph>This applies a different standard to someone in the United States who may be picked up on one of those calls than we apply within our own country. If the FBI gets a warrant to listen in on a drug dealer and that drug dealer has lots of conversations, if the drug dealer is talking about a criminal operation, then the FBI acts on it. If it is innocent, the FBI, the interceptors minimize or suppress that evidence, they do not sequester it, they do not have to go through the hoops that are required  for a recipient of a telephone call from a foreign terrorist overseas.</paragraph>
+    <paragraph>There is no reason why, when we have no challenges and no question that minimization is adequate to protect innocent Americans, that they need a higher level of protection when they are talking to a foreign terrorist than when they are talking to a U.S. drug dealer.</paragraph>
+    <paragraph>I urge the defeat of this amendment.</paragraph>
+  </speaking>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I ask unanimous consent for 5 minutes.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I strongly oppose this amendment.</paragraph>
+    <paragraph>This amendment would prohibit the Government from acquiring any communication under title VII of the bill if the Government knows before or at the time of acquisition that the communication is to or from a person reasonably believed to be located in the United States, unless the Government follows the sequestration procedures set forth in the legislation.</paragraph>
+    <paragraph>I see a number of problems with this amendment and I strongly oppose it.</paragraph>
+    <paragraph>I am afraid that the practical effect of this amendment would be to restrict the scope of the collection authority under the bill to international terrorism. Under the terms of this amendment, no other important foreign policy or national security target could be pursued unless the Government goes through a process that appears to be basically unworkable.</paragraph>
+    <paragraph>Neither the Intelligence Committee nor the Judiciary Committee limited the scope of the authority in this bill to international terrorism. Both committees anticipated that the flexibility provided by this bill could be used against the gamut of foreign targets overseas with respect to proliferation, weapons development, the clandestine intelligence activities of our enemies, and other priorities. The full Senate should not limit the scope of this bill to one area of foreign intelligence.</paragraph>
+    <paragraph>A second problem with this amendment is the new, cumbersome procedures it would impose involving the sequestration of information if the communication is to or from a person in the United States. The amendment seems to require that the Attorney General must make an application to the FISA Court to have access to this information for more than 7 days, even if the communication, for instance, concerns international terrorist activities directed against the United States.</paragraph>
+    <paragraph>While I share the Senator's goal of protecting the privacy interests of Americans, I am afraid this amendment is unworkable.</paragraph>
+    <paragraph>It bears repeating that what we are trying to do in <bill type="s" number="2248">S. 2248</bill> is modernize the Foreign Intelligence Surveillance Act so that FISA Court orders are not required when the Government is targeting non-U.S. persons overseas to collect foreign intelligence information. And we are trying to do this in a way that protects the privacy interests of U.S. persons.</paragraph>
+    <paragraph>We thus have included in <bill type="s" number="2248">S. 2248</bill> numerous protections for U.S. persons--both when they are the specific targets of Government surveillance and when their communications are intercepted as the incidental result of the Government acquiring the communications of a foreign target.</paragraph>
+    <paragraph>The Feingold sequestration amendment does not achieve the appropriate balance of privacy and national security. It appears to me that requirements already in <bill type="s" number="2248">S. 2248</bill>, including the requirement that minimization procedures for this collection activity be approved by the FISA Court, represent a much better approach for balancing the national security and the privacy interests of U.S. persons.</paragraph>
+    <paragraph>I urge the amendment be defeated.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to the amendment.</chair>
+  <speaking speaker="300042" topic="">
+    <paragraph>Mr. President, I ask for the yeas and nays.</paragraph>
+  </speaking>
+  <chair> Is there a sufficient second?</chair>
+  <chair>There appears to be a sufficient second. The clerk will call the roll.</chair>
+  <chair>The legislative clerk called the roll.</chair>
+  <speaking speaker="300038" topic="">
+    <paragraph>I announce that the Senator from New York (Mrs. CLINTON) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. GRAHAM).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. GRAHAM) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 35, nays 63, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 14 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Levin</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <narrative/>
+  <narrative>The amendment (No. 3979) was rejected.</narrative>
+  <speaking speaker="300010" topic="NOT VOTING--2">
+    <paragraph>I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300065" topic="NOT VOTING--2">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <chair> The question is on agreeing to amendment No. 3907 offered by the Senator from Connecticut, Mr. Dodd. There are 2 minutes of debate time equally divided, and the time on the remaining amendments will be strictly enforced.</chair>
+  <chair>The Senator from Connecticut.</chair>
+  <speaking speaker="300034" topic="">
+    <paragraph>Mr. President, let me, first of all, thank my colleague from Wisconsin, Senator Feingold, for his cosponsorship of this amendment, along with a number of other Members of this body who have joined us in this effort.</paragraph>
+    <paragraph>I thank the chairman and ranking member. My colleagues should know, initially the administration sought to grant immunity to all participants in this telecommunications surveillance program. The chairman and ranking member disagreed with that. However, they have provided retroactive immunity to some 16 phone companies. One of the phone companies refused, of course, to comply with this 5-year surveillance program that was granted without a warrant, without a court order.</paragraph>
+    <paragraph>I believe it is dangerous in setting a precedent for us today to grant that retroactive immunity without insisting the courts--as they are designed to do--should determine the legality or illegality of this program.</paragraph>
+    <paragraph>There are four committees of the U.S. Congress that have considered this issue. Three of the committees have rejected retroactive immunity. Only the Intelligence Committee of this body has decided to include it. I believe we ought to strike that provision and allow the court to do its job. That is what this amendment does, and I urge its adoption.</paragraph>
+  </speaking>
+  <chair> Who yields time?</chair>
+  <chair>The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, this carrier liability provision is an essential part of this bill. If we permit lawsuits to go ahead against carriers alleged to have participated in the program, there will be more disclosures in discoveries and pleadings of the means of collecting information, disclosing our most vital methods of collecting information.</paragraph>
+    <paragraph>Secondly, if we permit the carriers that may or may not have participated to be sued in court, then the most important partners the Government has--the private sector--will be discouraged from assisting us in the future.</paragraph>
+    <paragraph>The Intelligence Committee--the one committee that has looked at this--reviewed it and said these companies acted in good faith and, therefore, we should give them retroactive immunity.</paragraph>
+    <paragraph>I yield the remainder of my time to the distinguished chairman.</paragraph>
+  </speaking>
+  <chair> The Senator from West Virginia.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I strongly oppose this amendment. It is, of course, the whole shooting match. Substitution was brought up in the Judiciary Committee, and it was defeated. This, I believe, is the right way to go for the security of the Nation.</paragraph>
+    <paragraph>Mr. President, Senators Dodd and Feingold have offered an amendment to strike title II of the Intelligence Committee bill.</paragraph>
+    <paragraph> Title II addresses, in the narrowest way possible, a number of different underlying issues related to the past and future cooperation of providers. Any suggestion that it deals only with liability protection for providers related to the President's program fails to consider the title of the bill as a whole.</paragraph>
+    <paragraph>Unlike the Government's initial immunity proposals, title II does not try to address all of the different kinds of problems in one sweeping immunity provision that might provide immunity in situations where it is not deserved. Instead, it addresses each problem individually.</paragraph>
+    <paragraph> Let's look at the first problem. Under existing law, providers are entitled to protection from suit if they act pursuant to a FISA court order or if they receive a particular certification from the Attorney General. Senators Dodd and Feingold point to this existing immunity provision-- which may be based solely on the certification of the Attorney General--to suggest that no further immunity is needed. But this suggestion ignores the situation in the current lawsuits.</paragraph>
+    <paragraph> The Government has not allowed the providers who have been sued to publicly disclose whether or not they assisted the Government. Providers, therefore, cannot reveal whether they are already entitled to immunity, or even whether they declined to cooperate with the intelligence community.</paragraph>
+    <paragraph> In other words, even those providers who were not involved in the President's program or who acted only pursuant to a valid court order cannot extricate themselves from these lawsuits.</paragraph>
+    <paragraph>Section 203 of the Intelligence Committee bill, therefore, creates a mechanism within FISA that allows courts to review whether providers should be entitled to immunity under existing law, without revealing whether or not the provider assisted the intelligence community. The Dodd-Feingold amendment to strike title II strikes this provision, which protects those providers who indisputably complied with existing law.</paragraph>
+    <paragraph>There is a second problem that has not been widely discussed. Providers are currently subject to investigations by State public utilities commissions, which seek information about the relationship between the providers and Federal Government.</paragraph>
+    <paragraph> These State investigations essentially seek to force disclosure of classified information about the nature and extent of the information obtained by the intelligence community from communication providers. This inquiry into the conduct of the Federal Government is not an appropriate area for State regulation.</paragraph>
+    <paragraph> Section 204 of the Intelligence Committee bill, therefore, creates a new section of FISA that preempts State investigations that seek to force disclosure of classified information about the conduct of the Federal intelligence relationship between the provider and the intelligence community.</paragraph>
+    <paragraph> Finally, section 202 provides retrospective immunity for the participation of telecommunication companies in the President's warrantless surveillance program. We need to be very clear on the parameters of this section. It does not simply clean the slate for the actions of communications providers in the aftermath of 9/11.</paragraph>
+    <paragraph> In order for a provider to obtain liability protection, the Attorney General must certify that a company's actions were based on written assurances of legality, and were related to a communications intelligence activity authorized in the relevant time period.</paragraph>
+    <paragraph> Because these certifications require the Attorney General to have determined that legal requirements have been met and that the program was designed to detect or prevent a terrorist attack, an area where assistance would clearly be required, they parallel existing statutory requirements for immunity. Before immunity can be granted, the bill also requires the court to conduct a case-by-case review to ensure that the Attorney General did not abuse his discretion.</paragraph>
+    <paragraph> It is important to understand why the Intelligence Committee included this provision in our bill. After hearing from witnesses and reviewing documents, the committee concluded that the providers who assisted the Government acted in good faith, with a desire to help the country prevent another terrorist attack like those committed on September 11, 2001.</paragraph>
+    <paragraph>Even more importantly, however, the committee recognized that, because of the ongoing lawsuits, providers have become increasingly reluctant to assist the Government in the future. Given the degree to which our law enforcement agencies and intelligence community need the cooperation of the private sector to obtain intelligence, this was simply an unacceptable outcome.</paragraph>
+    <paragraph>Senators Dodd and Feingold have suggested that including the provision on liability protection as part of the bill is a sign of support for the President's program. It is not. It is simply a mechanism to ensure that accountability for the President's program lies with those who are truly responsible for it: The Government officials who represented to these companies that their actions were in accordance with the law. And it is a way to ensure that the intelligence community  obtains the assistance it needs from the private sector to keep us safe.</paragraph>
+    <paragraph>The question of whether the President's warrantless surveillance program was legal, or whether it violated constitutional rights, can and must be answered. Likewise, if administration officials improperly violated the privacy of innocent U.S. persons by conducting this warrantless surveillance, they should be held accountable.</paragraph>
+    <paragraph>But suing private companies who may have cooperated with the Government is neither an appropriate accountability mechanism nor the best way to obtain answers to questions about the legality of the program, nor is it the appropriate way to encourage public disclosure of information about the program.</paragraph>
+    <paragraph>The Intelligence Committee's bill does not prevent Congress from conducting its own oversight of these issues, or even from creating alternative mechanisms to seek those answers. It also allows suits against the Government to go forward.</paragraph>
+    <paragraph>I encourage my colleagues to come up with appropriate alternatives for review of the President's program; alternatives that will ensure both that the story of the President's program is made available to the public in a manner consistent with the protection of national security information and that Government officials are held accountable for any wrongdoing in which they may have been involved.</paragraph>
+    <paragraph>What we must not do, however, is to make companies that cooperated with the Government in good faith bear the brunt of our anger towards the President and other Government officials about the warrantless surveillance program; our intelligence community's future relationship with the private sector is simply too important.</paragraph>
+    <paragraph>Protection from liability is simply a way to ensure that the next President has the cooperation of these companies both to obtain intelligence to protect the country and to protect the privacy interests of U.S. persons.</paragraph>
+    <paragraph>I, therefore, urge you to oppose the Dodd-Feingold amendment.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to the amendment.</chair>
+  <speaking speaker="300034" topic="">
+    <paragraph>Mr. President, I ask for the yeas and nays.</paragraph>
+  </speaking>
+  <chair> Is there a sufficient second? There is a sufficient second.</chair>
+  <narrative>The clerk will call the roll.</narrative>
+  <narrative>The bill clerk called the roll.</narrative>
+  <speaking speaker="300038" topic="">
+    <paragraph>I announce that the Senator from New York (Mrs. CLINTON) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. GRAHAM).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. GRAHAM) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 31, nays 67, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 15 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <narrative/>
+  <narrative>The amendment (No. 3907) was rejected.</narrative>
+  <speaking speaker="300084" topic="NOT VOTING--2">
+    <paragraph>Mr. President, I move to reconsider the vote, and I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to table was agreed to.</narrative>
+  <chair> The question is on agreeing to amendment No. 3912, offered by Mr. Feingold of Wisconsin. There are 2 minutes of debate evenly divided.</chair>
+  <chair>The Senator from Wisconsin is recognized.</chair>
+  <speaking speaker="300042" topic="">
+    <paragraph>Mr. President, this amendment was approved by the Senate Judiciary Committee. It ensures that in implementing the new authorities provided in the bill, the Government is acquiring the communications of targets from whom it seeks to obtain foreign intelligence information and that it is not indiscriminately collecting all communications between the United States and overseas.</paragraph>
+    <paragraph>This amendment is necessary because of the vast and overbroad authorities provided by the PAA in this bill. In public testimony, the DNI stated that the PAA could authorize this type of bulk collection and could cover every communication between Americans inside the United States, in Europe, in South America, or the entire world. He also said that the Government is not actually engaging in this type of broad bulk collection but that it would be "desirable."</paragraph>
+    <paragraph>This amendment would not impede in any way collection in support of military operations, as the opponents continue to falsely assert. This extremely modest amendment would, however, oppose a massive bulk collection dragnet, which Chairman Rockefeller has even acknowledged would violate the Constitution.</paragraph>
+    <paragraph>I urge support for the amendment.</paragraph>
+  </speaking>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I oppose this amendment.</paragraph>
+    <paragraph>The Senator from Wisconsin is offering an amendment that he argues will prevent what he calls "bulk collection." The amendment is intended, as described by the Senator from Wisconsin, to ensure that this bill is not used by the Government to collect the contents of all the international communications between the United States and the rest of the world. The Senator argues that his amendment will prevent "bulk collection" by requiring the Government to have some foreign intelligence interest  in the overseas party to the communications it is collecting.</paragraph>
+    <paragraph>I regret to say that I must oppose this amendment. I do not believe it is necessary. I do believe as drafted the amendment will interfere with legitimate intelligence operations that protect the national security and the lives of Americans.</paragraph>
+    <paragraph>In considering amendments today, we need to consider whether an amendment would provide additional protections for U.S. persons and whether it would needlessly inhibit vital foreign intelligence collection. I do not believe the amendment as drafted provides additional protections. Furthermore, intelligence professionals have expressed their concern that this amendment would interfere with vital intelligence operations and there are important classified reasons underlying that concern.  &lt;center&gt;&lt;pre&gt;[Page:  <bill type="s" number="886">S886</bill>]&lt;/pre&gt;&lt;/center&gt;</paragraph>
+    <paragraph>Let us review the reasons why the amendment is unnecessary: first, bulk collection resulting in a dragnet of all of the international communications of U.S. persons would probably be unreasonable of the fourth amendment. No bill passed by the Senate may authorize what the fourth amendment prohibits. What is more, the committee bill, in fact, explicitly provides that acquisitions authorized under the bill are to be conducted in a manner consistent with the fourth amendment.</paragraph>
+    <paragraph>Second, the committee bill stipulates that acquisitions under this authority cannot intentionally target any person known to be located in the United States. And, to target a U.S. person outside the United States, the government must get approval from the FISA Court.</paragraph>
+    <paragraph>Third, the committee bill increases the role of the FISA Court in supervising the acquisition activities of the Government. The bill requires Court approval of minimization procedures that protect U.S. person information. It maintains the prior requirement of Court approval of targeting procedures.</paragraph>
+    <paragraph>In the unlikely event that the FISA Court would give its approval to targeting procedures and minimization procedures that allowed the Government to engage in unconstitutional bulk collection, the committee bill also strengthens oversight mechanisms in the executive and legislative branches. These mechanisms are intended to ensure such activity is detected and prevented.</paragraph>
+    <paragraph>The sponsor of the amendment says that his amendment only requires the Government to certify to the FISA Court that it is collecting communications of targets for whom there is a foreign intelligence interest.</paragraph>
+    <paragraph>But the committee bill already requires the Attorney General and the Director of National Intelligence to certify to the FISA Court that the acquisition authorized under the bill is targeted at persons outside the United States in order to obtain foreign intelligence information.</paragraph>
+    <paragraph>Because the remedy does not improve upon the protections in the bill for Americans, and places new burdens on the surveillance of foreign targets overseas, I thus oppose the amendment and urge it be rejected.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri is recognized.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, there is a clear delineation in this bill. We permit targeting of foreign terrorists overseas, or Americans, with a court order. This doesn't permit listening in on bulk collections of communications involving innocent Americans. The only American who is going to be listened in on is one calling to or receiving a call from a terrorist.</paragraph>
+    <paragraph>I urge defeat of this amendment.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to amendment No. 3912.</chair>
+  <speaking speaker="300042" topic="">
+    <paragraph>Mr. President, I ask for the yeas and nays.</paragraph>
+  </speaking>
+  <chair> Is there a sufficient second? There is a sufficient second.</chair>
+  <narrative>The clerk will call the roll.</narrative>
+  <narrative>The legislative clerk called the roll.</narrative>
+  <narrative>Mr. DURBIN, I announce that the Senator from New York (Mrs. CLINTON) is necessarily absent.</narrative>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senators are necessarily absent: the Senator from South Carolina (Mr. GRAHAM) and the Senator from Idaho (Mr. CRAIG).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. GRAHAM) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 37, nays 60, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 16 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Graham</narrative>
+  <narrative>The amendment (No. 3912) was rejected.</narrative>
+  <speaking speaker="300010" topic="NOT VOTING--3">
+    <paragraph>I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300084" topic="NOT VOTING--3">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <chair> The question is on agreeing to amendment No. 3938 offered by the Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, with the distinguished chairman of the committee, we offer this amendment responding to a request made by the Director of National Intelligence when he sent up his recommendations to us last April. He and the Attorney General strongly support this amendment because it adds proliferators of weapons of mass destruction to the definition in FISA of agent of a foreign power, foreign intelligence information, use of information, and physical searches. This amendment applies  only to non-U.S. persons.</paragraph>
+    <paragraph>Making these definitional changes will allow the Government to target for surveillance those who seek to spread this dangerous technology and will enable the intelligence community to share information with other agencies. It remains a central concern for our national security, whether done by terrorists, criminals or other nations.</paragraph>
+    <paragraph>I believe we can accept this amendment on a voice vote. I turn to my distinguished chairman for his comments.</paragraph>
+  </speaking>
+  <chair> The Senator from West Virginia.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, I support this amendment.</paragraph>
+    <paragraph>It closes a gap in the Foreign Intelligence Surveillance Act. The amendment expands the definition of certain key terms in the law in order to enhance the Government's ability to obtain FISA coverage of individuals involved in the international proliferation of weapons of mass destruction.</paragraph>
+    <paragraph>Although the international proliferation of WMD is one of the most serious threats facing the nation, the Government cannot now get a FISA Court order for individuals believed to be engaged in international proliferation of weapons of mass destruction unless the Government can also show a close link between the trafficker and a foreign Government or an international terrorist organization.</paragraph>
+    <paragraph>Too often, this connection only becomes clear at the completion of the target's proliferation activity. With this amendment, the Government will be able to conduct electronic surveillance and physical searches, with a FISA Court order, at a much earlier stage in an individual's proliferation activities.</paragraph>
+    <paragraph>It should be understood that this amendment is intended to broaden FISA coverage only in those instances in which the individual is involved in international proliferation activities. The amendment is intended to cover those who are engaged in activities involving proliferation of weapons of mass destruction, which include under the terms of the amendment biological, chemical and radiological weapons and destructive devices that are intended to or that actually do have a capability to cause death  or serious bodily injury to a significant number of people.</paragraph>
+    <paragraph>This amendment will enhance our efforts to acquire foreign intelligence information to detect and disrupt the international proliferation of weapons of mass destruction.</paragraph>
+    <paragraph>The vice chairman is to be applauded for addressing this issue and I urge passage.</paragraph>
+  </speaking>
+  <speaking speaker="300042" topic="">
+    <paragraph>Mr. President, I must oppose Bond amendment No. 3938. I do not object to expanding FISA to cover dangerous individuals involved in the international proliferation of weapons of mass destruction, which is the primary goal of this amendment.</paragraph>
+    <paragraph>But this amendment is drafted in such a way that its effect would be  much broader and could result in wiretaps issued by the secret FISA Court being directed at U.S. companies and U.S. universities that are engaged in perfectly legal research efforts or that are legally and legitimately working with materials that have multiple purposes and that aren't intended to be used for weaponry at all.</paragraph>
+    <paragraph>In fact, the American Library Association and the Association of Research Libraries have expressed serious concern about this amendment. Here is what they said: "While we can appreciate the concerns for those wanting FISA to address the issues of international proliferation of WMDs, the language appears to also expose to secret wiretaps those U.S. academic researchers, universities and companies doing legal research into conventional and chemical/biological weapons." Mr. President, that is  simply not acceptable.</paragraph>
+    <paragraph>Let me be clear: This amendment expands the core provisions of FISA that authorize wiretaps and secret searches of the homes and offices of people inside the United States. This is not about extending the new authorities provided in the Protect America Act and reauthorized by the Intelligence Committee bill.</paragraph>
+    <paragraph>It is one thing to permit secret court-ordered foreign intelligence wiretaps of people in this country who are intentionally engaged in the international proliferation of WMD. But because of the way this amendment is drafted, it would go far beyond just authorizing wiretaps for these types of dangerous criminals.</paragraph>
+    <paragraph>The biggest problem with the amendment is that it does not require that the people being wiretapped be involved in any criminal activity. This means that companies and individuals engaged in perfectly legal and legitimate biological, chemical, nuclear or other research could be wiretapped under this provision.</paragraph>
+    <paragraph>I don't understand this. Under FISA today, while foreign government officials can be surveilled to gain foreign intelligence even if they are not breaking the law, foreign terrorist suspects not associated with a government who are in the United States can only be wiretapped if they are involved in criminal activities. That requirement helps ensure that innocent people engaged in, say, legal protest activities aren't subject to FISA. And I know of no complaints about that requirement.</paragraph>
+    <paragraph>This amendment, on the other hand, doesn't require any suspicion of criminal wrongdoing. It does not even require that the target know that they might be contributing to proliferation. Worse yet, it does not even define international proliferation. So how can we know what activity might trigger the use of this most intrusive of investigation techniques against an individual in the United States? What does international proliferation mean for purposes of this authority?</paragraph>
+    <paragraph>I certainly don't know the answer to that, and there is nothing in this amendment to answer it. And without a requirement that the proliferation must be illegal under U.S. law, I am seriously concerned that this could cover entities doing perfectly legal, academic, chemical, biological or nuclear research, or even research on conventional weapons like grenades and bombs. It could also cover legitimate companies manufacturing dual-purpose goods, component parts or precursors that could be used  for weapons if they fell into the wrong hands.</paragraph>
+    <paragraph>We can easily fix this problem with the amendment. It would be quite simple to add language virtually identical to that already included in FISA with respect to international terrorism, simply stating that international proliferation of WMD only covers activities that violate U.S. criminal laws or would be criminal if committed within U.S. jurisdiction. I even proposed language to this effect to the Senator from Missouri, hoping that we could work out our differences on this amendment and not  require the full Senate to vote on it. But my modest proposal was rejected, for reasons I fail to understand. What I do understand is that if the proponents of this amendment refuse to include language limiting it to people committing crimes, that makes me even more concerned about what is intended and how this is going to be used. There are other changes, as well, that could bring the scope of the amendment into line with the justification for it, but none of my suggestions were accepted.</paragraph>
+    <paragraph>Some may argue that we should not worry about this expansion of FISA because it only applies to foreigners visiting the United States, sometimes referred to as "non-U.S. persons." But on the face of the amendment, that is not at all clear. This is because the amendment expands the definition of "foreign power" under FISA to cover any entity involved in international proliferation of WMD, regardless of whether it is incorporated in the United States or how many Americans work there. And any  foreign power can be wiretapped or searched under the plain provisions of FISA, regardless of whether it is breaking the law.</paragraph>
+    <paragraph>Even if the amendment were limited to non-U.S. persons, U.S. companies, and universities hire any number of people who are here on work or study visas and who are not considered "U.S. persons." When those people are here in the United States, they are fully protected by the fourth amendment. So why should those individuals be subject to secret court-ordered wiretaps and searches of their offices when they have done nothing illegal? And won't this affect the ability of U.S. companies and universities  to recruit the best foreign talent to come and work for them?</paragraph>
+    <paragraph>I realize this all may seem very technical, but let me repeat the upshot: What all of this means is that, under this amendment, U.S. companies and U.S. universities conducting perfectly legal and legitimate activities--meaning they are doing nothing wrong--could be considered "foreign powers" under FISA and subject to court-ordered secret wiretaps in this country without any suspicion of wrongdoing. This has left organizations like the American Library Association and the Association of Research  Libraries with very serious concerns about the amendment.</paragraph>
+    <paragraph>Mr. President, I would have been willing to adopt this amendment if it could have been modified to address some of these concerns. But it would be my preference not to address this complex issue in this legislation. The responsible thing to do would be to engage in further study so we know we have the right solution to this problem. But if we are going to take on this issue here, today, let's at least do it in a responsible, targeted way.</paragraph>
+    <paragraph>We have heard a lot about unintended consequences throughout the debate on this bill. I believe this amendment will have serious unintended consequences, and I think it would benefit all of us to study the issue further. But if that is not possible, we should at a minimum try to limit the effect of the amendment to the dangerous criminals who are the reason for this expansion of FISA. The Bond amendment does not do that.</paragraph>
+  </speaking>
+  <chair> The question is on agreeing to amendment No. 3938.</chair>
+  <chair>The amendment (No. 3938) was agreed to.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300084" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <chair> The question is on agreeing to amendment No. 3927 offered by the Senator from Pennsylvania.</chair>
+  <speaking speaker="300092" topic="">
+    <paragraph>Mr. President, this amendment substitutes the Government for the party defendant in place of the telephone companies. It is designed to maintain some check and balance on the executive because Congress has been totally ineffective to do so.</paragraph>
+    <paragraph>It accomplishes both purposes. It keeps the program going to gain intelligence information necessary for national defense, but it maintains the courts being open as a check and balance.</paragraph>
+    <paragraph>I yield to Senator Whitehouse.</paragraph>
+  </speaking>
+  <chair> The Senator from Rhode Island.</chair>
+  <speaking speaker="412247" topic="">
+    <paragraph>Mr. President, if we vote for retroactive immunity, we violate the rule of law taking away legitimate claims in legitimate litigation in a manner that is unprecedented and unconstitutional. If on the other hand we do nothing, we leave American companies gagged by the state secrets privilege in ongoing litigation.</paragraph>
+    <paragraph>This amendment is a sensible, fair, bipartisan alternative that takes away  no rights, that follows the Federal Rules of Civil Procedure, that honors the separation of powers principles and leaves no litigant gagged by the Government.</paragraph>
+    <paragraph>Please support the amendment.</paragraph>
+  </speaking>
+  <chair> All time has expired. Who yields time in opposition? The Senator from West Virginia.</chair>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, the distinguished ranking member of the Judiciary Committee, Senator SPECTER, has offered an amendment proposing to substitute the government for the providers in the ongoing civil lawsuits.</paragraph>
+    <paragraph>I appreciate and agree with the sentiment of Senator SPECTER and Senator WHITEHOUSE that the government--not the providers who operated in good faith with them--should be held responsible for the legal fallout from the President's warrantless surveillance program. But this amendment lays out a remarkably complicated litigation procedure that is unlikely to achieve any meaningful review of the President's program.</paragraph>
+    <paragraph>Under this amendment, if the Attorney General submits a certification to the district court that an individual carrier provided assistance in connection with the President's program or did not provide assistance, the district court certifies a question to the FISA Court.</paragraph>
+    <paragraph>The FISA Court is then required to determine whether the carrier cooperated with existing law, or acted in good faith and pursuant to an objectively reasonable belief that the written request was legal. If the FISA Court makes that finding, the government is substituted for the carrier in the district court.</paragraph>
+    <paragraph>At that point, litigation continues against the government under several different possible statutes, and the provider is dismissed from the suit. The plaintiffs may, however, seek discovery--that is, documents, witness testimony, and other information--from the providers who were originally named in the lawsuit.</paragraph>
+    <paragraph>This complicated procedure raises a number of concerns both about the determination by the FISA Court and the resolution of the lawsuits after the government is substituted.</paragraph>
+    <paragraph>As an initial matter, it is unclear why the cases would need to be transferred to the FISA Court for a determination of good faith. The Intelligence Committee has already made an assessment of the good faith of the cooperating providers. The possibility of a court--rather than the Congress--making the good faith determination is particularly relevant to an amendment offered by Senator FEINSTEIN, and I am sure we will discuss it further.</paragraph>
+    <paragraph>But even if Congress seeks to have a court, rather than Congress, make a determination of good faith, having that.determination made in the FISA Court unnecessarily complicates the process. The FISA Court is not a standard factfinding trial court; it does not hear from witnesses, take evidence, or assess the "good faith" of private parties. The FISA Court is simply not set up to make factual determinations that impact civil lawsuits.</paragraph>
+    <paragraph>Nor does transferring the cases to the FISA Court help the plaintiffs in these cases. They are not entitled to hear the classified information concerning the good faith of the providers, and they will not be involved in the debate.</paragraph>
+    <paragraph>In addition, although a finding of good faith would normally result in dismissal of the lawsuits, under this proposal, the providers would still potentially have the burden of producing documents and witnesses. Thus, because providers who acted in good faith will continue to have a role in the litigation, even if they are no longer the named defendants, this proposal does not relieve the cost and reputational burdens of the litigation. It therefore is unlikely to encourage the providers to cooperate  with the government in the future.</paragraph>
+    <paragraph>It is also unclear what substituting the government in these cases seeks to accomplish. The proposal would involve changing the nature of the claims filed against telecommunications companies to causes of action against the government under a number of statutes, including the Federal Tort Claims Act, the Administrative Procedure Act, or FISA. Suits under these statutes, however, can be, and in some cases, have already been brought against the government.</paragraph>
+    <paragraph>If it is already possible to sue the government under thee statutes for possible violations, and indeed, if the government has already been sued under these statutes, why do we need to create a new procedure to convert claims against private companies into these claims against the government?</paragraph>
+    <paragraph>Finally, we should look at what is actually happening in the current litigation. Many of my colleagues have suggested that allowing the litigation to continue--with either the government or the providers as the defendant--will allow the court to resolve the issue of whether the providers acted in accordance with the law. But this is not presently the debate in the litigation.</paragraph>
+    <paragraph>Right now, the parties in the approximately 40 civil lawsuits are arguing about access to classified information about the President's program. The government has refused to publicly reveal the classified documents and information that would allow litigation to proceed. Because classified information is needed to address even threshold litigation issues, having the government or a particular provider as defendant in the suit is unlikely to change this aspect of the litigation.</paragraph>
+    <paragraph>In other words, whether or not we substitute the government for the provider, no court is likely to resolve the question of whether the President, or any private company, violated the law in the near future. Given that the administration is unlikely to declassify information about the program while the lawsuits are ongoing, it is also unlikely that litigation will ever tell the story of what happened with the President's program. So what benefit is there to substituting the government in the  providers' stead?</paragraph>
+    <paragraph>Providers who acted in good faith should be removed from ongoing litigation, without having the burden of responding to discovery and litigation requests and without the reputational harm of having suits in their name go forward against the government. Ongoing reminders of the potential pitfalls of cooperating in good faith with the government will not encourage these companies--whose assistance the intelligence community and law enforcement agencies desperately need--to cooperate with the government  in the future.</paragraph>
+    <paragraph>If plaintiffs in any ongoing suit want to bring claims against government officials, those suits can be brought directly, without the complicated substitution procedure described in this amendment.</paragraph>
+    <paragraph>Although no member of the Intelligence Committee offered an amendment on this issue, the committee considered whether it would be more appropriate to substitute the government for particular providers in ongoing lawsuits as part of the work done in preparing this bill. For all of the reasons I have discussed, the committee ultimately decided that substitution was not the right approach to address the ongoing lawsuits.</paragraph>
+    <paragraph>I, therefore, cannot support this amendment, and I urge my colleagues to oppose it.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, for all the reasons we voted down striking retroactive immunity, this amendment must be defeated as well because it would continue to disclose all the methods of collection in electronic surveillance and it would put at risk the private parties.</paragraph>
+  </speaking>
+  <chair> All time has expired. The question is on agreeing to amendment No. 3927.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>I ask for the yeas and nays.</paragraph>
+  </speaking>
+  <chair> Is there a sufficient second?</chair>
+  <chair>There is a sufficient second.</chair>
+  <narrative>The clerk will call the roll.</narrative>
+  <narrative>The bill clerk called the roll.</narrative>
+  <speaking speaker="300038" topic="">
+    <paragraph>I announce that the Senator from New York (Mrs. Clinton) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. Graham).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. Graham) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 30, nays 68, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 17 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <narrative/>
+  <narrative>The amendment (No. 3927) was rejected.</narrative>
+  <speaking speaker="300010" topic="NOT VOTING--2">
+    <paragraph>Mr. President, I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300066" topic="NOT VOTING--2">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <chair> Without objection, it is so ordered.</chair>
+  <chair> Under the previous order, there will now be 2 minutes of debate equally divided on amendment No. 3919 offered by the Senator from California, Mrs. Feinstein.</chair>
+  <chair>The Senator from California.</chair>
+  <speaking speaker="300043" topic="">
+    <paragraph>Mr. President, FISA has a law within it as to how you do electronic surveillance, and that law has specific provisions of what companies seeking to assist the Government must do. Essentially, what this amendment does is ask the FISA Court to review that compliance by the telecom companies to see that they complied with the elements of that part of FISA.</paragraph>
+    <paragraph>I think some Members have been able to look at the certification letter sent to telecoms, but most Members have not, and I think it is very important that the court have an opportunity to review these certifications and see if they are adequate under the provisions of the FISA law, and this is exactly what this amendment does.</paragraph>
+    <paragraph>I thank the Chair, and I yield the floor.</paragraph>
+  </speaking>
+  <chair> The Senator from Missouri.</chair>
+  <speaking speaker="300010" topic="">
+    <paragraph>Mr. President, the FISA Court was not set up to make judgments about the operation of foreign intelligence. As a matter of fact, they said specifically, in a case released in December, that is a matter for the executive branch.</paragraph>
+    <paragraph>Now, there are some people who say there ought to be a court challenge to the President's terrorist surveillance program. Let me remind my colleagues that there are seven cases proceeding against the Government and Government employees which will not be impacted by this bill. Every day that litigation continues, whether it be in a FISA court or in open court, there is a danger of leaking of information.</paragraph>
+    <paragraph>There could be disclosure of our methods, and there could be risks to employees of the companies in areas of the world. Certainly their bottom line could be impacted. As Senator Durbin pointed out last week, leaks of classified information caused severe harm to a company in his State.</paragraph>
+    <paragraph> I urge the defeat of this amendment.</paragraph>
+  </speaking>
+  <speaking speaker="300084" topic="">
+    <paragraph>Mr. President, the distinguished Senator from California has offered an amendment to modify the procedures in the Intelligence Committee bill on dismissal of civil actions against telecommunications companies that assisted an element of the intelligence community with regard to the President's warrantless surveillance program.</paragraph>
+    <paragraph>Senator FEINSTEIN's amendment preserves the basic idea of the Intelligence Committee bill; namely, that narrowly crafted immunity for private companies is an appropriate way of resolving dozens of lawsuits arising from the President's program. But the amendment makes one significant change in the procedure proposed by the Intelligence Committee. Rather than Congress deciding that each and every company acted in good faith, the question of whether individual carriers relied in good faith  on representations made by the Government would be made by the FISA Court.</paragraph>
+    <paragraph>I understand and appreciate the Senator from California's desire to have a court make this good faith determination. But in this particular case, I think that Congress is better able to assess the context in which companies cooperated with the Government in order to determine whether they acted in good faith.</paragraph>
+    <paragraph>As members of the Intelligence Committee, Senator FEINSTEIN and I have had access to the letters sent to the telecommunications companies. We have heard from the companies who were told after 9/11 that their assistance was "required" and that the request for assistance was based on a Presidential order, the legality of which was certified by the Attorney General.</paragraph>
+    <paragraph>In addition, the committee understands the threats faced by the United States in the years after September 11, and the effect that threat environment had on all American citizens.</paragraph>
+    <paragraph>The committee also understands exactly how critical the private sector is to all of our intelligence collection efforts, and what effect the pending lawsuits have had on the private sector's continued cooperation with the Government.</paragraph>
+    <paragraph>The policy question that is at the heart of the Feinstein amendment--whether companies that cooperated with the intelligence community after September 11 should be protected from liability for their actions--is not a question than can truly be addressed in an individual court case. Unlike the fact-intensive, good faith determinations that would be made in a court case, this question is not about how a company reacted to each individual piece of correspondence it received, or its discussions with  the Government. The question should not be answered on a piecemeal basis, based on whether each of the individual actions taken by any particular company was in good faith.</paragraph>
+    <paragraph>Knowing how to address this policy issue instead depends on understanding the circumstances that surrounded the requests, the full dimension of the threat, and the historical relationship between the Government and the companies. Because Congress has the ability to look at the totality of the circumstances in a way that a court evaluating an individual company's good faith cannot, I feel that it is our responsibility to assess the reasonableness of the response of all of the companies.</paragraph>
+    <paragraph>Given the circumstances involved in this sensitive matter, I believe Congress, not the courts, should make the determination as to whether companies acted in good faith and should be protected from liability.</paragraph>
+    <paragraph>Apart from disagreeing as to who should make the decision about good faith, there are also a number of significant procedural concerns with the Feinstein amendment. I fear that these problems would make the amendment unworkable.</paragraph>
+    <paragraph>Under Senator FEINSTEIN's amendment, the first step in the immunity process would be the same as under the Intelligence Committee's bill. The Attorney General would make a certification to a court in which a case against a telecommunication company is being heard. The certification would say one of two things.</paragraph>
+    <paragraph>First, if the company assisted the government, the certification would have to indicate that any assistance provided had been for an intelligence activity involving communications that had been authorized by the President between September 11, 2001, and January 2007.</paragraph>
+    <paragraph>The certification would also have to state that the assistance had been described to the company in a written request or directive from the Attorney General or the head or deputy head of an intelligence community element which indicated that the activity was authorized by the President had determined to be lawful.</paragraph>
+    <paragraph>Alternatively, the certification could indicate that the telecommunications company did not provide the alleged assistance.</paragraph>
+    <paragraph>The court would then have the opportunity to review the Attorney General's certification for abuse of discretion. To protect national security information, only the judge would be entitled to review the certification; the plaintiffs would not have access to it.</paragraph>
+    <paragraph>Under the committee's bill, such a certification would be the end of the process, except for the issuance of the court's order dismissing the action if the Attorney General's certification met these requirements.</paragraph>
+    <paragraph>Senator FEINSTEIN's amendment, in contrast, uses that certification to trigger a transfer of the case to the Foreign Intelligence Surveillance Court. This amendment also specifically provides that the FISA Court will permit any plaintiff in an applicable covered civil action to appear before the Court.</paragraph>
+    <paragraph>This transfer of the case to the FISA Court seriously complicates the existing lawsuits, and poses a number of significant procedural problems that are not resolved in the amendment.</paragraph>
+    <paragraph>As an initial matter, the type of analysis in the amendment is outside the longstanding scope and jurisdiction of the FISA Court.</paragraph>
+    <paragraph>Under the Feinstein amendment, the FISA Court would be required to determine, acting as a body of all judges, whether immunity would be granted under current law, whether the company had an objectively reasonable belief under the circumstances that compliance with the written request or directive was lawful, or whether the company did not provide the alleged assistance.</paragraph>
+    <paragraph>None of these determinations involve the Foreign Intelligence Surveillance Act, the statute on which the FISA Court has expertise. Indeed, the point of the litigation is that the President's program was conducted outside of FISA.</paragraph>
+    <paragraph>In addition, the FISA Court is not generally set up for adversarial civil litigation; it does not usually hear from witnesses or take evidence. Although Congress has granted the Court the ability to hear challenges to certain FISA directives, it has never before been asked to make factual determinations that affect the outcome of civil lawsuits.</paragraph>
+    <paragraph>Sending the case to the FISA court therefore raises all sorts of questions. For example, would the FISA Court, acting en banc, hear testimony from witnesses? If so, who would examine the witnesses? What rules of evidence would apply? What role would the plaintiffs play in the proceeding?</paragraph>
+    <paragraph>The FISA Court would have to come up with an entirely new set of procedures just to handle this litigation. This new proceeding--particularly as the Court would have to act en banc--would significantly strain the resources of the Court that oversees our electronic surveillance of terrorists and foreign powers and protects the privacy of U.S. persons.</paragraph>
+    <paragraph>Nor does transferring the cases to the FISA Court necessarily help the plaintiffs in these cases. As they do not currently have security clearances, the Government is unlikely to provide the plaintiffs with access to classified information about the proceeding. Thus, most likely, they will not be involved in the debate.</paragraph>
+    <paragraph>I commend the Senator from California for her efforts to come up with a mechanism by which the court can consider and determine the good faith of the companies. But, because of all of the procedural problems with this amendment I have described, as well as a more fundamental belief that Congress has a unique ability in this circumstance to assess the good faith of the companies, I cannot support this amendment.</paragraph>
+    <paragraph>The PRESIDING OFFICER (Mr. WHITEHOUSE.) All time has expired. The question is on agreeing to amendment No. 3919.</paragraph>
+    <paragraph>The yeas and nays have been ordered.</paragraph>
+  </speaking>
+  <narrative>The clerk will call the roll.</narrative>
+  <narrative>The legislative clerk called the roll.</narrative>
+  <speaking speaker="300038" topic="">
+    <paragraph>I announce that the Senator from New York (Mrs. Clinton) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. Graham).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. Graham) would have voted "nay."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The result was announced--yeas 41, nays 57, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 18 Leg.]</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <chair> Under the previous order requiring 60 votes for adoption of the amendment, the amendment is withdrawn.</chair>
+  <chair>Under the previous order, the substitute amendment, as amended, is agreed to.</chair>
+  <chair>The amendment (No. 3911), in the nature of a substitute, as amended, was agreed to.</chair>
+  <chair> The question is on the engrossment and third reading of the bill.</chair>
+  <chair>The bill was ordered to be engrossed for a third reading and was read the third time.</chair>
+  <chair> Under the previous order, the clerk will report the motion to invoke cloture.</chair>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <narrative>Cloture Motion</narrative>
+  <narrative>We, the undersigned Senators, in accordance with the provisions of rule XXII of the Standing Rules of the Senate, hereby move to bring to a close debate on <bill type="s" number="2248">S. 2248</bill>, the FISA bill.</narrative>
+  <speaking speaker="300042" topic="CLOTURE MOTION">
+    <paragraph>Mr. President, as I have said repeatedly on the Senate floor, I strongly oppose granting unjustified retroactive immunity to companies that allegedly participated in the President's illegal wiretapping program, which went on for more than 5 years. It is unnecessary because under current law, companies already have immunity from civil liability if they comply with a court order or with a certification from the Attorney General that a court order is not required and all statutory  requirements have been met. Congress should leave it to the courts to evaluate whether the companies alleged to have cooperated with the program would deserve immunity under this existing law rather than changing the rules of the game after the fact. That is why I have been a staunch supporter of the Dodd amendment to strike the immunity provision from this bill entirely.</paragraph>
+    <paragraph>Given my strong opposition to any retroactive immunity for telecommunications companies, I want to explain why I voted in favor of two amendments that proposed alternatives to but did not entirely eliminate retroactive immunity. Amendment No. 3927, offered by Senators Specter and Whitehouse, would have substituted the Government for the companies in the pending litigation, and amendment No. 3919, proposed by Senator Feinstein, would have directed the FISA Court to evaluate  whether companies complied with the existing immunity provision or otherwise acted in good faith.</paragraph>
+    <paragraph>I do not believe that either of these proposals is necessary. In fact, when Senator Specter offered his substitution proposal as a stand-alone bill in the Senate Judiciary Committee, I opposed it. I firmly believe that Congress should allow the courts to evaluate whether the companies deserve immunity under the law that applied to them at the time, and we should not be  meddling in this area at all. However, unlike the Specter bill, these two  amendments were offered to replace the broad grant of retroactive immunity in the FISA bill, and they were offered after the Senate had voted not to adopt the Dodd-Feingold amendment. Each of them was an improvement, however slight, to the underlying immunity provision, in that they would have</paragraph>
+  </speaking>
+  <chair> By unanimous consent, the mandatory quorum call has been waived.</chair>
+  <chair>The question is, Is it the sense of the Senate that debate on <bill type="s" number="2248">S. 2248</bill>, an original bill to amend the Foreign Intelligence Surveillance Act of 1978, to modernize and streamline the provisions of that act, and for other purposes, shall be brought to a close.</chair>
+  <chair>The yeas and nays are required under the rule.</chair>
+  <narrative>The clerk will call the roll.</narrative>
+  <narrative>The bill clerk called the roll.</narrative>
+  <speaking speaker="300038" topic="CLOTURE MOTION">
+    <paragraph>I announce that the Senator from New York (Mrs. Clinton) is necessarily absent.</paragraph>
+  </speaking>
+  <speaking speaker="300062" topic="CLOTURE MOTION">
+    <paragraph>The following Senator is necessarily absent: the Senator from South Carolina (Mr. Graham).</paragraph>
+    <paragraph>Further, if present and voting, the Senator from South Carolina (Mr. Graham) would have voted "yea."</paragraph>
+  </speaking>
+  <chair> Are there any other Senators in the Chamber desiring to vote?</chair>
+  <narrative>The yeas and nays resulted--yeas 69, nays 29, as follows:</narrative>
+  <narrative>[Rollcall Vote No. 19 Leg.]</narrative>
+  <narrative>Alexander</narrative>
+  <narrative>Allard</narrative>
+  <narrative>Barrasso</narrative>
+  <narrative>Baucus</narrative>
+  <narrative>Bayh</narrative>
+  <narrative>Bennett</narrative>
+  <narrative>Bond</narrative>
+  <narrative>Brownback</narrative>
+  <narrative>Bunning</narrative>
+  <narrative>Burr</narrative>
+  <narrative>Carper</narrative>
+  <narrative>Casey</narrative>
+  <narrative>Chambliss</narrative>
+  <narrative>Coburn</narrative>
+  <narrative>Cochran</narrative>
+  <narrative>Coleman</narrative>
+  <narrative>Collins</narrative>
+  <narrative>Conrad</narrative>
+  <narrative>Corker</narrative>
+  <narrative>Cornyn</narrative>
+  <narrative>Craig</narrative>
+  <narrative>Crapo</narrative>
+  <narrative>DeMint</narrative>
+  <narrative>Dole</narrative>
+  <narrative>Domenici</narrative>
+  <narrative>Ensign</narrative>
+  <narrative>Enzi</narrative>
+  <narrative>Feinstein</narrative>
+  <narrative>Grassley</narrative>
+  <narrative>Gregg</narrative>
+  <narrative>Hagel</narrative>
+  <narrative>Hatch</narrative>
+  <narrative>Hutchison</narrative>
+  <narrative>Inhofe</narrative>
+  <narrative>Inouye</narrative>
+  <narrative>Isakson</narrative>
+  <narrative>Johnson</narrative>
+  <narrative>Kohl</narrative>
+  <narrative>Kyl</narrative>
+  <narrative>Landrieu</narrative>
+  <narrative>Lieberman</narrative>
+  <narrative>Lincoln</narrative>
+  <narrative>Lugar</narrative>
+  <narrative>Martinez</narrative>
+  <narrative>McCain</narrative>
+  <narrative>McCaskill</narrative>
+  <narrative>McConnell</narrative>
+  <narrative>Mikulski</narrative>
+  <narrative>Murkowski</narrative>
+  <narrative>Nelson (FL)</narrative>
+  <narrative>Nelson (NE)</narrative>
+  <narrative>Pryor</narrative>
+  <narrative>Roberts</narrative>
+  <narrative>Rockefeller</narrative>
+  <narrative>Salazar</narrative>
+  <narrative>Sessions</narrative>
+  <narrative>Shelby</narrative>
+  <narrative>Smith</narrative>
+  <narrative>Snowe</narrative>
+  <narrative>Specter</narrative>
+  <narrative>Stevens</narrative>
+  <narrative>Sununu</narrative>
+  <narrative>Thune</narrative>
+  <narrative>Vitter</narrative>
+  <narrative>Voinovich</narrative>
+  <narrative>Warner</narrative>
+  <narrative>Webb</narrative>
+  <narrative>Whitehouse</narrative>
+  <narrative>Wicker</narrative>
+  <narrative>Akaka</narrative>
+  <narrative>Biden</narrative>
+  <narrative>Bingaman</narrative>
+  <narrative>Boxer</narrative>
+  <narrative>Brown</narrative>
+  <narrative>Byrd</narrative>
+  <narrative>Cantwell</narrative>
+  <narrative>Cardin</narrative>
+  <narrative>Dodd</narrative>
+  <narrative>Dorgan</narrative>
+  <narrative>Durbin</narrative>
+  <narrative>Feingold</narrative>
+  <narrative>Harkin</narrative>
+  <narrative>Kennedy</narrative>
+  <narrative>Kerry</narrative>
+  <narrative>Klobuchar</narrative>
+  <narrative>Lautenberg</narrative>
+  <narrative>Leahy</narrative>
+  <narrative>Levin</narrative>
+  <narrative>Menendez</narrative>
+  <narrative>Murray</narrative>
+  <narrative>Obama</narrative>
+  <narrative>Reed</narrative>
+  <narrative>Reid</narrative>
+  <narrative>Sanders</narrative>
+  <narrative>Schumer</narrative>
+  <narrative>Stabenow</narrative>
+  <narrative>Tester</narrative>
+  <narrative>Wyden</narrative>
+  <narrative>Clinton</narrative>
+  <narrative>Graham</narrative>
+  <chair> On this vote, the yeas are 69, the nays are 29. Three-fifths of the Senators duly chosen and sworn having voted in the affirmative, the motion is agreed to.</chair>
+</record>

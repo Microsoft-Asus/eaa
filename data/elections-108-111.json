@@ -1,0 +1,1036 @@
+{
+	"elections": [
+		{
+			"congress": "108",
+			"general_date": "11/02/2004",
+			"states": [
+				{
+					"AL": {
+						"primary": "06/01/2004",
+						"S": true,
+						"runoff": "06/29/2004"
+					},
+					"AK": {
+						"primary": "08/24/2004",
+						"S": true,
+						"runoff": false
+					},
+					"AZ": {
+						"primary": "09/07/2004",
+						"S": true,
+						"runoff": false
+					},
+					"AR": {
+						"primary": "05/18/2004",
+						"S": true,
+						"runoff": "06/08/2004"
+					},
+					"CA": {
+						"primary": "03/02/2004",
+						"S": true,
+						"runoff": false
+					},
+					"CO": {
+						"primary": "08/10/2004",
+						"S": true,
+						"runoff": false
+					},
+					"CT": {
+						"primary": "08/10/2004",
+						"S": true,
+						"runoff": false
+					},
+					"DE": {
+						"primary": "09/11/2004",
+						"S": false,
+						"runoff": false
+					},
+					"FL": {
+						"primary": "08/31/2004",
+						"S": true,
+						"runoff": false
+					},
+					"GA": {
+						"primary": "07/20/2004",
+						"S": true,
+						"runoff": "08/10/2004"
+					},
+					"HI": {
+						"primary": "09/18/2004",
+						"S": true,
+						"runoff": false
+					},
+					"ID": {
+						"primary": "05/25/2004",
+						"S": true,
+						"runoff": false
+					},
+					"IL": {
+						"primary": "03/16/2004",
+						"S": true,
+						"runoff": false
+					},
+					"IN": {
+						"primary": "05/04/2004",
+						"S": true,
+						"runoff": false
+					},
+					"IA": {
+						"primary": "06/08/2004",
+						"S": true,
+						"runoff": false
+					},
+					"KS": {
+						"primary": "08/03/2004",
+						"S": true,
+						"runoff": false
+					},
+					"KY": {
+						"primary": "05/18/2004",
+						"S": true,
+						"runoff": false
+					},
+					"LA": {
+						"primary": false,
+						"S": true,
+						"runoff": false
+					},
+					"ME": {
+						"primary": "06/08/2004",
+						"S": false,
+						"runoff": false
+					},
+					"MD": {
+						"primary": "03/02/2004",
+						"S": true,
+						"runoff": false
+					},
+					"MA": {
+						"primary": "09/14/2004",
+						"S": false,
+						"runoff": false
+					},
+					"MI": {
+						"primary": "08/03/2004",
+						"S": false,
+						"runoff": false
+					},
+					"MN": {
+						"primary": "09/14/2004",
+						"S": false,
+						"runoff": false
+					},
+					"MS": {
+						"primary": "03/09/2004",
+						"S": false,
+						"runoff": "03/30/2004"
+					},
+					"MO": {
+						"primary": "08/03/2004",
+						"S": true,
+						"runoff": false
+					},
+					"MT": {
+						"primary": "06/08/2004",
+						"S": false,
+						"runoff": false
+					},
+					"NE": {
+						"primary": "05/11/2004",
+						"S": false,
+						"runoff": false
+					},
+					"NV": {
+						"primary": "09/07/2004",
+						"S": true,
+						"runoff": false
+					},
+					"NH": {
+						"primary": "09/14/2004",
+						"S": true,
+						"runoff": false
+					},
+					"NJ": {
+						"primary": "06/08/2004",
+						"S": false,
+						"runoff": false 
+					},
+					"NM": {
+						"primary": "06/01/2004",
+						"S": false,
+						"runoff": false
+					},
+					"NY": {
+						"primary": "09/14/2004",
+						"S": true,
+						"runoff": false
+					},
+					"NC": {
+						"primary": "07/20/2004",
+						"S": true,
+						"runoff": "08/17/2004"
+					},
+					"ND": {
+						"primary": "06/08/2004",
+						"S": true,
+						"runoff": false
+					},
+					"OH": {
+						"primary": "03/02/2004",
+						"S": true,
+						"runoff": false
+					},
+					"OK": {
+						"primary": "07/27/2004",
+						"S": true,
+						"runoff": "08/24/2004"
+					},
+					"OR": {
+						"primary": "05/18/2004",
+						"S": true,
+						"runoff": false
+					},
+					"PA": {
+						"primary": "04/27/2004",
+						"S": true,
+						"runoff": false
+					},
+					"RI": {
+						"primary": "09/14/2004",
+						"S": false,
+						"runoff": false
+					},
+					"SC": {
+						"primary": "06/08/2004",
+						"S": true,
+						"runoff": "06/22/2004"
+					},
+					"SD": {
+						"primary": "06/01/2004",
+						"S": true,
+						"runoff": "06/15/2004"
+					},
+					"TN": {
+						"primary": "08/05/2004",
+						"S": false,
+						"runoff": false
+					},
+					"TX": {
+						"primary": "03/09/2004",
+						"S": false,
+						"runoff": "04/13/2004"
+					},
+					"UT": {
+						"primary": "06/22/2004",
+						"S": true,
+						"runoff": false
+					},
+					"VA": {
+						"primary": "06/08/2004",
+						"S": false,
+						"runoff": false
+					},
+					"VT": {
+						"primary": "09/14/2004",
+						"S": true,
+						"runoff": false
+					},
+					"WA": {
+						"primary": "09/14/2004",
+						"S": true,
+						"runoff": false
+					},
+					"WV": {
+						"primary": "05/11/2004",
+						"S": false,
+						"runoff": false
+					},
+					"WI": {
+						"primary": "09/14/2004",
+						"S": true,
+						"runoff": false
+					},
+					"WY": {
+						"primary": "08/17/2004",
+						"S": false,
+						"runoff": false
+					}
+				}
+			]
+		},
+		{
+			"congress": "109",
+			"general_date": "11/07/2006",
+			"states": [
+				{
+					"AL": {
+						"primary": "06/06/2006",
+						"S": false,
+						"runoff": "07/18/2006"
+					},
+					"AK": {
+						"primary": "08/22/2006",
+						"S": false,
+						"runoff": false
+					},
+					"AZ": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"AR": {
+						"primary": "05/23/2006",
+						"S": false,
+						"runoff": "06/13/2006"
+					},
+					"CA": {
+						"primary": "06/06/2006",
+						"S": true,
+						"runoff": false
+					},
+					"CO": {
+						"primary": "08/08/2006",
+						"S": false,
+						"runoff": false
+					},
+					"CT": {
+						"primary": "08/08/2006",
+						"S": true,
+						"runoff": false
+					},
+					"DE": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"FL": {
+						"primary": "09/05/2006",
+						"S": true,
+						"runoff": false
+					},
+					"GA": {
+						"primary": "07/18/2006",
+						"S": false,
+						"runoff": "08/08/2006"
+					},
+					"HI": {
+						"primary": "09/23/2006",
+						"S": true,
+						"runoff": false
+					},
+					"ID": {
+						"primary": "05/23/2006",
+						"S": false,
+						"runoff": false
+					},
+					"IL": {
+						"primary": "03/21/2006",
+						"S": false,
+						"runoff": false
+					},
+					"IN": {
+						"primary": "05/02/2006",
+						"S": true,
+						"runoff": false
+					},
+					"IA": {
+						"primary": "06/06/2006",
+						"S": false,
+						"runoff": false
+					},
+					"KS": {
+						"primary": "08/01/2006",
+						"S": false,
+						"runoff": false
+					},
+					"KY": {
+						"primary": "05/16/2006",
+						"S": false,
+						"runoff": false
+					},
+					"LA": {
+						"primary": false,
+						"S": false,
+						"runoff": false
+					},
+					"ME": {
+						"primary": "06/13/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MD": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MA": {
+						"primary": "09/19/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MI": {
+						"primary": "08/08/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MN": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MS": {
+						"primary": "06/06/2006",
+						"S": true,
+						"runoff": "06/27/2006"
+					},
+					"MO": {
+						"primary": "08/08/2006",
+						"S": true,
+						"runoff": false
+					},
+					"MT": {
+						"primary": "06/06/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NE": {
+						"primary": "05/09/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NV": {
+						"primary": "08/15/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NH": {
+						"primary": "09/12/2006",
+						"S": false,
+						"runoff": false
+					},
+					"NJ": {
+						"primary": "06/06/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NM": {
+						"primary": "06/06/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NY": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"NC": {
+						"primary": "05/02/2006",
+						"S": false,
+						"runoff": "05/30/2006"
+					},
+					"ND": {
+						"primary": "06/13/2006",
+						"S": true,
+						"runoff": false
+					},
+					"OH": {
+						"primary": "05/02/2006",
+						"S": true,
+						"runoff": false
+					},
+					"OK": {
+						"primary": "07/25/2006",
+						"S": false,
+						"runoff": "08/22/2006"
+					},
+					"OR": {
+						"primary": "05/16/2006",
+						"S": true,
+						"runoff": false
+					},
+					"PA": {
+						"primary": "05/16/2006",
+						"S": true,
+						"runoff": false
+					},
+					"RI": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"SC": {
+						"primary": "06/13/2006",
+						"S": false,
+						"runoff": "06/27/2006"
+					},
+					"SD": {
+						"primary": "06/06/2006",
+						"S": false,
+						"runoff": "06/20/2006"
+					},
+					"TN": {
+						"primary": "08/03/2006",
+						"S": true,
+						"runoff": false
+					},
+					"TX": {
+						"primary": "03/07/2006",
+						"S": true,
+						"runoff": "04/11/2006"
+					},
+					"UT": {
+						"primary": "06/27/2006",
+						"S": true,
+						"runoff": false
+					},
+					"VA": {
+						"primary": "06/13/2006",
+						"S": true,
+						"runoff": false
+					},
+					"VT": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"WA": {
+						"primary": "09/19/2006",
+						"S": true,
+						"runoff": false
+					},
+					"WV": {
+						"primary": "05/09/2006",
+						"S": true,
+						"runoff": false
+					},
+					"WI": {
+						"primary": "09/12/2006",
+						"S": true,
+						"runoff": false
+					},
+					"WY": {
+						"primary": "08/22/2006",
+						"S": true,
+						"runoff": false
+					}
+				}
+			]
+		},
+		{
+			"congress": "110",
+			"general_date": "11/04/2010",
+			"states": [
+				{
+					"AL": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": "07/15/2008"
+					},
+					"AK": {
+						"primary": "08/26/2008",
+						"S": true,
+						"runoff": false
+					},
+					"AZ": {
+						"primary": "09/02/2008",
+						"S": false,
+						"runoff": false
+					},
+					"AR": {
+						"primary": "05/20/2008",
+						"S": true,
+						"runoff": "06/10/2008"
+					},
+					"CA": {
+						"primary": "06/03/2008",
+						"S": false,
+						"runoff": false
+					},
+					"CO": {
+						"primary": "08/12/2008",
+						"S": true,
+						"runoff": false
+					},
+					"CT": {
+						"primary": "08/12/2008",
+						"S": false,
+						"runoff": false
+					},
+					"DE": {
+						"primary": "09/09/2008",
+						"S": true,
+						"runoff": false
+					},
+					"FL": {
+						"primary": "08/26/2008",
+						"S": false,
+						"runoff": false
+					},
+					"GA": {
+						"primary": "07/15/2008",
+						"S": true,
+						"runoff": "08/05/2008"
+					},
+					"HI": {
+						"primary": "09/20/2008",
+						"S": false,
+						"runoff": false
+					},
+					"ID": {
+						"primary": "05/27/2008",
+						"S": true,
+						"runoff": false
+					},
+					"IL": {
+						"primary": "02/06/2008",
+						"S": true,
+						"runoff": false
+					},
+					"IN": {
+						"primary": "05/06/2008",
+						"S": false,
+						"runoff": false
+					},
+					"IA": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": false
+					},
+					"KS": {
+						"primary": "08/05/2008",
+						"S": true,
+						"runoff": false
+					},
+					"KY": {
+						"primary": "05/20/2008",
+						"S": true,
+						"runoff": false
+					},
+					"LA": {
+						"primary": "09/06/2008",
+						"S": true,
+						"runoff": "10/04/2008"
+					},
+					"ME": {
+						"primary": "06/10/2008",
+						"S": true,
+						"runoff": false
+					},
+					"MD": {
+						"primary": "02/12/2008",
+						"S": false,
+						"runoff": false
+					},
+					"MA": {
+						"primary": "09/16/2008",
+						"S": true,
+						"runoff": false
+					},
+					"MI": {
+						"primary": "08/05/2008",
+						"S": true,
+						"runoff": false
+					},
+					"MN": {
+						"primary": "09/09/2008",
+						"S": true,
+						"runoff": false
+					},
+					"MS": {
+						"primary": "03/11/2008",
+						"S": true,
+						"runoff": "04/11/2008"
+					},
+					"MO": {
+						"primary": "08/05/2008",
+						"S": false,
+						"runoff": false
+					},
+					"MT": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": false
+					},
+					"NE": {
+						"primary": "05/13/2008",
+						"S": true,
+						"runoff": false
+					},
+					"NV": {
+						"primary": "08/12/2008",
+						"S": false,
+						"runoff": false
+					},
+					"NH": {
+						"primary": "09/09/2008",
+						"S": true,
+						"runoff": false
+					},
+					"NJ": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": false
+					},
+					"NM": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": false
+					},
+					"NY": {
+						"primary": "09/09/2008",
+						"S": false,
+						"runoff": false
+					},
+					"NC": {
+						"primary": "05/06/2008",
+						"S": true,
+						"runoff": "06/24/2008"
+					},
+					"ND": {
+						"primary": "06/10/2008",
+						"S": false,
+						"runoff": false
+					},
+					"OH": {
+						"primary": "03/04/2008",
+						"S": false,
+						"runoff": false
+					},
+					"OK": {
+						"primary": "07/29/2008",
+						"S": true,
+						"runoff": "08/26/2008"
+					},
+					"OR": {
+						"primary": "05/20/2008",
+						"S": true,
+						"runoff": false
+					},
+					"PA": {
+						"primary": "04/22/2008",
+						"S": false,
+						"runoff": false
+					},
+					"RI": {
+						"primary": "09/09/2008",
+						"S": true,
+						"runoff": false
+					},
+					"SC": {
+						"primary": "06/10/2008",
+						"S": true,
+						"runoff": "06/24/2008"
+					},
+					"SD": {
+						"primary": "06/03/2008",
+						"S": true,
+						"runoff": "06/17/2008"
+					},
+					"TN": {
+						"primary": "08/07/2008",
+						"S": true,
+						"runoff": false
+					},
+					"TX": {
+						"primary": "03/04/2008",
+						"S": true,
+						"runoff": "04/08/2008"
+					},
+					"UT": {
+						"primary": "06/24/2008",
+						"S": false,
+						"runoff": false
+					},
+					"VA": {
+						"primary": "06/10/2008",
+						"S": true,
+						"runoff": false
+					},
+					"VT": {
+						"primary": "09/09/2008",
+						"S": false,
+						"runoff": false
+					},
+					"WA": {
+						"primary": "08/19/2008",
+						"S": false,
+						"runoff": false
+					},
+					"WV": {
+						"primary": "05/13/2008",
+						"S": true,
+						"runoff": false
+					},
+					"WI": {
+						"primary": "09/09/2008",
+						"S": false,
+						"runoff": false
+					},
+					"WY": {
+						"primary": "08/19/2008",
+						"S": true,
+						"runoff": false
+					}
+				}
+			]
+		},
+		{
+			"congress": "111",
+			"general_date": "11/02/2010",
+			"states": [
+				{
+					"AL": {
+						"primary": "06/01/2010",
+						"S": true,
+						"runoff": "07/13/2010"
+					},
+					"AK": {
+						"primary": "08/24/2010",
+						"S": true,
+						"runoff": false
+					},
+					"AZ": {
+						"primary": "08/24/2010",
+						"S": true,
+						"runoff": false
+					},
+					"AR": {
+						"primary": "05/18/2010",
+						"S": true,
+						"runoff": "06/08/2010"
+					},
+					"CA": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": false
+					},
+					"CO": {
+						"primary": "08/10/2010",
+						"S": true,
+						"runoff": false
+					},
+					"CT": {
+						"primary": "08/10/2010",
+						"S": true,
+						"runoff": false
+					},
+					"DE": {
+						"primary": "09/14/2010",
+						"S": true,
+						"runoff": false
+					},
+					"FL": {
+						"primary": "08/24/2010",
+						"S": true,
+						"runoff": false
+					},
+					"GA": {
+						"primary": "07/20/2010",
+						"S": true,
+						"runoff": "08/10/2010"
+					},
+					"HI": {
+						"primary": "09/18/2010",
+						"S": true,
+						"runoff": false
+					},
+					"ID": {
+						"primary": "05/25/2010",
+						"S": true,
+						"runoff": false
+					},
+					"IL": {
+						"primary": "02/02/2010",
+						"S": true,
+						"runoff": false
+					},
+					"IN": {
+						"primary": "05/04/2010",
+						"S": true,
+						"runoff": false
+					},
+					"IA": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": false
+					},
+					"KS": {
+						"primary": "08/03/2010",
+						"S": true,
+						"runoff": false
+					},
+					"KY": {
+						"primary": "05/18/2010",
+						"S": true,
+						"runoff": false
+					},
+					"LA": {
+						"primary": "08/28/2010",
+						"S": true,
+						"runoff": "10/02/2010"
+					},
+					"ME": {
+						"primary": "06/08/2010",
+						"S": false,
+						"runoff": false
+					},
+					"MD": {
+						"primary": "09/14/2010",
+						"S": true,
+						"runoff": false
+					},
+					"MA": {
+						"primary": "09/14/2010",
+						"S": false,
+						"runoff": false
+					},
+					"MI": {
+						"primary": "08/03/2010",
+						"S": false,
+						"runoff": false
+					},
+					"MN": {
+						"primary": "08/10/2010",
+						"S": false,
+						"runoff": false
+					},
+					"MS": {
+						"primary": "06/01/2010",
+						"S": false,
+						"runoff": "06/22/2010"
+					},
+					"MO": {
+						"primary": "08/03/2010",
+						"S": true,
+						"runoff": false
+					},
+					"MT": {
+						"primary": "06/08/2010",
+						"S": false,
+						"runoff": false
+					},
+					"NE": {
+						"primary": "05/11/2010",
+						"S": false,
+						"runoff": false
+					},
+					"NV": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": false
+					},
+					"NH": {
+						"primary": "09/14/2010",
+						"S": true,
+						"runoff": false
+					},
+					"NJ": {
+						"primary": "06/08/2010",
+						"S": false,
+						"runoff": false
+					},
+					"NM": {
+						"primary": "06/01/2010",
+						"S": false,
+						"runoff": false
+					},
+					"NY": {
+						"primary": "09/14/2010",
+						"S": true,
+						"runoff": false
+					},
+					"NC": {
+						"primary": "05/04/2010",
+						"S": true,
+						"runoff": "06/22/2010"
+					},
+					"ND": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": false
+					},
+					"OH": {
+						"primary": "05/04/2010",
+						"S": true,
+						"runoff": false
+					},
+					"OK": {
+						"primary": "07/27/2010",
+						"S": true,
+						"runoff": "08/24/2010"
+					},
+					"OR": {
+						"primary": "05/18/2010",
+						"S": true,
+						"runoff": false
+					},
+					"PA": {
+						"primary": "05/18/2010",
+						"S": true,
+						"runoff": false
+					},
+					"RI": {
+						"primary": "09/14/2010",
+						"S": false,
+						"runoff": false
+					},
+					"SC": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": "06/22/2010"
+					},
+					"SD": {
+						"primary": "06/08/2010",
+						"S": true,
+						"runoff": "06/29/2010"
+					},
+					"TN": {
+						"primary": "08/05/2010",
+						"S": false,
+						"runoff": false
+					},
+					"TX": {
+						"primary": "03/02/2010",
+						"S": false,
+						"runoff": "04/13/2010"
+					},
+					"UT": {
+						"primary": "06/22/2010",
+						"S": true,
+						"runoff": false
+					},
+					"VA": {
+						"primary": "06/08/2010",
+						"S": false,
+						"runoff": false
+					},
+					"VT": {
+						"primary": "08/24/2010",
+						"S": true,
+						"runoff": false
+					},
+					"WA": {
+						"primary": "08/17/2010",
+						"S": true,
+						"runoff": false
+					},
+					"WV": {
+						"primary": "05/11/2010",
+						"S": false,
+						"runoff": false
+					},
+					"WI": {
+						"primary": "09/14/2010",
+						"S": true,
+						"runoff": false
+					},
+					"WY": {
+						"primary": "08/17/2010",
+						"S": false,
+						"runoff": false
+					}
+				}
+			]
+		}
+	]
+}

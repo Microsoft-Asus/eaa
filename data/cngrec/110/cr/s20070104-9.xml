@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<record where="s" when="1167946162" ordinal="9" title="ELECTION OF THE HONORABLE ROBERT C. BYRD AS PRESIDENT PRO TEMPORE">
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I send a resolution to the desk.</paragraph>
+  </speaking>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>The clerk will report the resolution by title.</paragraph>
+  </speaking-unknown-id>
+  <narrative>The legislative clerk read as follows:</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Without objection, the resolution is considered and agreed to.</paragraph>
+    <paragraph>The resolution (<bill type="sr" number="3">S. Res. 3</bill>) was agreed to, as follows:</paragraph>
+    <paragraph>
+      <bill type="sr" number="3">S. Res. 3</bill>
+    </paragraph>
+    <paragraph>Resolved, That Robert C. Byrd, a Senator from the State of West Virginia, be, and he is hereby, elected President of the Senate pro tempore.</paragraph>
+  </speaking-unknown-id>
+  <speaking speaker="300082" topic="">
+    <paragraph>Mr. President, I move to reconsider the vote.</paragraph>
+  </speaking>
+  <speaking speaker="300072" topic="">
+    <paragraph>I move to lay that motion on the table.</paragraph>
+  </speaking>
+  <narrative>The motion to lay on the table was agreed to.</narrative>
+  <speaking-unknown-id title="" name="The Vice President" of="">
+    <paragraph>Senator Byrd will be escorted to the desk.</paragraph>
+    <paragraph>Senator Robert C. Byrd, escorted by Mr. Reid, Mr. McConnell, and Mr. Rockefeller, respectively, advanced to the desk of the Vice President, and he subscribed to the oath in the Official Oath Book.</paragraph>
+    <paragraph>Congratulations.</paragraph>
+    <paragraph>[Applause, Senators rising.]</paragraph>
+  </speaking-unknown-id>
+</record>
